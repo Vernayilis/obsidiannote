@@ -19,22 +19,22 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "2139115384de241e",
+        "type": "tabs",
+        "children": [
           {
             "id": "cb522748962b1d17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Literture 文獻筆記/第五漫步.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Literture 文獻筆記/第五漫步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,20 +116,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Literture 文獻筆記/第五漫步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f1a73b0f53af5ca0",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -139,8 +126,24 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "36137b9098c4db20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1a73b0f53af5ca0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
               "state": {
-                "file": "02_Literture 文獻筆記/第五漫步.md"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -160,11 +163,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "d980bedf0cc2f52e",
+  "active": "cb522748962b1d17",
   "lastOpenFiles": [
+    "Dialy/靈修日記/2023-07-30.md",
     "02_Literture 文獻筆記/第三、第六漫步.md",
     "02_Literture 文獻筆記/第五漫步.md",
-    "Dialy/靈修日記/2023-07-30.md",
     "Dialy/靈修日記",
     "X_Index 索引",
     "Dialy",
