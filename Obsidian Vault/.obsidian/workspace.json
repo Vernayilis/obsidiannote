@@ -97,8 +97,12 @@
             "id": "cb522748962b1d17",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02_Literture 文獻筆記/第五漫步.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -107,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_Literture 文獻筆記/第五漫步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_Literture 文獻筆記/第五漫步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02_Literture 文獻筆記/第五漫步.md"
+              }
             }
           }
         ]
