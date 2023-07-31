@@ -13,123 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Literture 文獻筆記/第五漫步.md",
+                "file": "02_Literture 文獻筆記/漫步.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "26ef0cc185a1c279",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Literture 文獻筆記/第三、第六漫步.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6b3378ce8a37cff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Literture 文獻筆記/自由與命運.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a975ccfb89d4383",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Literture 文獻筆記/第六漫步.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56e1333ec5f0fc91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Literture 文獻筆記/漫步.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43294589d64d3eaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Literture 文獻筆記/第三、第六漫步.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3085b510bef277a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Literture 文獻筆記/第五漫步.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cea4678b02434b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Literture 文獻筆記/第六漫步.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69bd2cce5ddb4854",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Literture 文獻筆記/漫步.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8eec76a232157ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Literture 文獻筆記/盧梭.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,6 +79,7 @@
       {
         "id": "b2cb4851ffd7fcbc",
         "type": "tabs",
+        "dimension": 69.66019417475728,
         "children": [
           {
             "id": "1a5ce51804c847b9",
@@ -203,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_Literture 文獻筆記/漫步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_Literture 文獻筆記/漫步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02_Literture 文獻筆記/漫步.md"
+              }
             }
           }
         ]
@@ -237,6 +133,7 @@
       {
         "id": "36137b9098c4db20",
         "type": "tabs",
+        "dimension": 30.339805825242717,
         "children": [
           {
             "id": "f1a73b0f53af5ca0",
@@ -265,7 +162,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "1a5ce51804c847b9",
+  "active": "24411c71d26f88e2",
   "lastOpenFiles": [
     "02_Literture 文獻筆記/盧梭.md",
     "02_Literture 文獻筆記/漫步.md",
