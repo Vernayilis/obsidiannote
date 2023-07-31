@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca544a8eee99aec9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dialy/靈修日記/2023-07-12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dialy/靈修日記/2023-07-13.md",
+                "file": "Dialy/靈修日記/2023-07-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dialy/靈修日記/2023-07-13.md",
+                "file": "Dialy/靈修日記/2023-07-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dialy/靈修日記/2023-07-13.md"
+                "file": "Dialy/靈修日記/2023-07-12.md"
               }
             }
           }
@@ -176,10 +188,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "9e408849f2916a42",
+  "active": "ca544a8eee99aec9",
   "lastOpenFiles": [
-    "X_Index 索引/2023.md",
     "Dialy/靈修日記/2023-07-13.md",
+    "Dialy/靈修日記/2023-07-12.md",
+    "X_Index 索引/2023.md",
     "Dialy/靈修日記/2023-07-14.md",
     "Dialy/靈修日記/2023-07-25.md",
     "Dialy/靈修日記/2023-07-31.md",
