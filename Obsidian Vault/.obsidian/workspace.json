@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb522748962b1d17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Literture 文獻筆記/未命名 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dialy/靈修日記/2023-07-30.md",
+                "file": "02_Literture 文獻筆記/未命名 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dialy/靈修日記/2023-07-30.md",
+                "file": "02_Literture 文獻筆記/未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dialy/靈修日記/2023-07-30.md"
+                "file": "02_Literture 文獻筆記/未命名 1.md"
               }
             }
           }
@@ -147,9 +160,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "24411c71d26f88e2",
+  "active": "d980bedf0cc2f52e",
   "lastOpenFiles": [
     "Dialy/靈修日記/2023-07-30.md",
+    "02_Literture 文獻筆記/未命名 1.md",
     "Dialy/靈修日記",
     "未命名.md",
     "04_Index 索引筆記",
