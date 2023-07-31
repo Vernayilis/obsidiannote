@@ -26,9 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Literture 文獻筆記/第五漫步.md",
+                "file": "02_Literture 文獻筆記/第三、第六漫步.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -63,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#歌德",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_Literture 文獻筆記/第三、第六漫步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_Literture 文獻筆記/第三、第六漫步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02_Literture 文獻筆記/第三、第六漫步.md"
+              }
             }
           }
         ]
@@ -171,8 +173,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "1a5ce51804c847b9",
+  "active": "d980bedf0cc2f52e",
   "lastOpenFiles": [
+    "未命名",
+    "未命名.canvas",
     "02_Literture 文獻筆記/第五漫步.md",
     "02_Literture 文獻筆記/第三、第六漫步.md",
     "Dialy/靈修日記/2023-07-30.md",
