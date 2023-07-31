@@ -79,16 +79,8 @@
       {
         "id": "b2cb4851ffd7fcbc",
         "type": "tabs",
-        "dimension": 69.66019417475728,
+        "dimension": 28.519417475728154,
         "children": [
-          {
-            "id": "1a5ce51804c847b9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
           {
             "id": "be0d0af4b9907db5",
             "type": "leaf",
@@ -121,6 +113,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6fb47a35601b7bde",
+        "type": "tabs",
+        "dimension": 41.140776699029125,
+        "children": [
+          {
+            "id": "1a5ce51804c847b9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
@@ -161,8 +168,10 @@
   "active": "1a5ce51804c847b9",
   "lastOpenFiles": [
     "Dialy/靈修日記/2023-07-31.md",
-    "未命名.canvas",
+    "02_Literture 文獻筆記/第五漫步.md",
+    "02_Literture 文獻筆記/漫步.md",
     "X_Index 索引/2023.md",
+    "未命名.canvas",
     "Dialy/靈修日記/2023-07-12.md",
     "Dialy/靈修日記/2023-07-13.md",
     "Dialy/靈修日記/2023-07-14.md",
@@ -171,9 +180,7 @@
     "02_Literture 文獻筆記/自由與命運.md",
     "Dialy/靈修日記/2023-07-30.md",
     "02_Literture 文獻筆記/第三、第六漫步.md",
-    "02_Literture 文獻筆記/第五漫步.md",
     "02_Literture 文獻筆記/第六漫步.md",
-    "02_Literture 文獻筆記/漫步.md",
     "02_Literture 文獻筆記/盧梭.md",
     "Dialy/靈修日記",
     "X_Index 索引",
