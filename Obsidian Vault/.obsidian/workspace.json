@@ -43,9 +43,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a975ccfb89d4383",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Literture 文獻筆記/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Literture 文獻筆記/自由與命運.md",
+                "file": "02_Literture 文獻筆記/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Literture 文獻筆記/自由與命運.md",
+                "file": "02_Literture 文獻筆記/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Literture 文獻筆記/自由與命運.md"
+                "file": "02_Literture 文獻筆記/未命名.md"
               }
             }
           }
@@ -185,10 +197,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "a6b3378ce8a37cff",
+  "active": "d980bedf0cc2f52e",
   "lastOpenFiles": [
-    "02_Literture 文獻筆記/第三、第六漫步.md",
+    "02_Literture 文獻筆記/未命名.md",
     "02_Literture 文獻筆記/自由與命運.md",
+    "02_Literture 文獻筆記/第三、第六漫步.md",
     "未命名",
     "未命名.canvas",
     "02_Literture 文獻筆記/第五漫步.md",
