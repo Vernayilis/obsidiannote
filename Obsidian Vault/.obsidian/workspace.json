@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#漫步",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,7 +160,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "be0d0af4b9907db5",
+  "active": "d980bedf0cc2f52e",
   "lastOpenFiles": [
     "02_Literture 文獻筆記/第三、第六漫步.md",
     "02_Literture 文獻筆記/第五漫步.md",
