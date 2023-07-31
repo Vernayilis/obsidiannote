@@ -19,22 +19,21 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "2139115384de241e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "cb522748962b1d17",
+            "id": "1a5ce51804c847b9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02_Literture 文獻筆記/第三、第六漫步.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,6 +94,14 @@
         "type": "tabs",
         "children": [
           {
+            "id": "cb522748962b1d17",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "be0d0af4b9907db5",
             "type": "leaf",
             "state": {
@@ -129,8 +136,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "36137b9098c4db20",
@@ -151,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 501.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,8 +171,8 @@
   },
   "active": "cb522748962b1d17",
   "lastOpenFiles": [
-    "Dialy/靈修日記/2023-07-30.md",
     "02_Literture 文獻筆記/第三、第六漫步.md",
+    "Dialy/靈修日記/2023-07-30.md",
     "02_Literture 文獻筆記/第五漫步.md",
     "Dialy/靈修日記",
     "X_Index 索引",
