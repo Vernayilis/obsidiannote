@@ -1,4 +1,5 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "Dialy/靈修日記"
+  "newFileFolderPath": "Dialy/靈修日記",
+  "attachmentFolderPath": "./attachments"
 }
