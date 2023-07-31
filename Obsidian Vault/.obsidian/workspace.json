@@ -179,7 +179,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "盧梭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +195,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "盧梭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,9 +205,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "盧梭.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -245,12 +241,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "2cea4678b02434b5",
+  "active": "1a5ce51804c847b9",
   "lastOpenFiles": [
+    "漫步.md",
     "盧梭.md",
     "02_Literture 文獻筆記/第五漫步.md",
     "02_Literture 文獻筆記/第三、第六漫步.md",
-    "漫步.md",
     "02_Literture 文獻筆記/第六漫步.md",
     "02_Literture 文獻筆記/自由與命運.md",
     "未命名",
