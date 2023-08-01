@@ -101,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dialy/靈修日記/詩篇135.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dialy/靈修日記/詩篇135.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dialy/靈修日記/詩篇135.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 769.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,7 +179,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "87dcad2f3143bff4",
+  "active": "1a5ce51804c847b9",
   "lastOpenFiles": [
     "Dialy/靈修日記/詩篇135.md",
     "Dialy/靈修日記/2023-08-01.md",
