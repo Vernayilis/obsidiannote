@@ -32,7 +32,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dialy/靈修日記/2023-08-01.md",
+                "file": "Dialy/靈修日記/2023-08-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dialy/靈修日記/2023-08-01.md",
+                "file": "Dialy/靈修日記/2023-08-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dialy/靈修日記/2023-08-01.md"
+                "file": "Dialy/靈修日記/2023-08-02.md"
               }
             }
           }
@@ -182,10 +183,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "24411c71d26f88e2",
+  "active": "1f093b1e3cf7a2c1",
   "lastOpenFiles": [
-    "X_Index 索引/2023.md",
     "Dialy/靈修日記/2023-08-01.md",
+    "X_Index 索引/2023.md",
     "Dialy/靈修日記/2023-08-02.md",
     "02_Literture 文獻筆記/漫步.md",
     "Dialy/靈修日記/詩篇135.md",
