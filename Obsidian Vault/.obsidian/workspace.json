@@ -157,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 769.5
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,7 +169,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "1f093b1e3cf7a2c1",
+  "active": "be0d0af4b9907db5",
   "lastOpenFiles": [
     "Dialy/靈修日記/2023-07-25.md",
     "Dialy/靈修日記/2023-08-02.md",
