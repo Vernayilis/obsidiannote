@@ -11,13 +11,28 @@
             "id": "952c61276124ea61",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "Bible/詩篇擷思_annotation.md"
+                "file": "Dialy/靈修日記/2023-08-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9575b23d34caaf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dialy/靈修日記/尋求平衡.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +91,7 @@
       {
         "id": "b2cb4851ffd7fcbc",
         "type": "tabs",
-        "dimension": 48.45360824742269,
+        "dimension": 48.453608247422686,
         "children": [
           {
             "id": "be0d0af4b9907db5",
@@ -84,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible/詩篇擷思_annotation.md",
+                "file": "Dialy/靈修日記/尋求平衡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible/詩篇擷思_annotation.md",
+                "file": "Dialy/靈修日記/尋求平衡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible/詩篇擷思_annotation.md"
+                "file": "Dialy/靈修日記/尋求平衡.md"
               }
             }
           }
@@ -167,10 +182,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "952c61276124ea61",
+  "active": "e9575b23d34caaf5",
   "lastOpenFiles": [
-    "Bible/奧古斯丁詩篇闡釋_annotation.md",
+    "Dialy/靈修日記/2023-08-03.md",
+    "Dialy/靈修日記/尋求平衡.md",
     "Bible/詩篇擷思_annotation.md",
+    "Bible/奧古斯丁詩篇闡釋_annotation.md",
     "Bible/恩典現場.md",
     "Bible/詩篇擷思.md",
     "Bible/attachments/聖經詩篇闡釋-奧古斯丁.pdf",
@@ -178,7 +195,6 @@
     "Bible/從哀傷到歡呼_annotation.md",
     "Bible/attachments/從哀傷到歡呼_詩篇與人生_楊牧谷.pdf",
     "未命名",
-    "Dialy/靈修日記/2023-08-03.md",
     "Bible/attachments/恩典現場-楊腓力.pdf",
     "Dialy/靈修日記/詩篇135.md",
     "attachments/恩典現場-楊腓力.pdf",
