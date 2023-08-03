@@ -11,9 +11,11 @@
             "id": "e46074152cd3318f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Bible/attachments/C.S.Lewis_詩篇擷思.pdf"
+                "file": "Bible/詩篇擷思.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible/attachments/C.S.Lewis_詩篇擷思.pdf",
+                "file": "Bible/詩篇擷思.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible/attachments/C.S.Lewis_詩篇擷思.pdf",
+                "file": "Bible/詩篇擷思.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible/attachments/C.S.Lewis_詩篇擷思.pdf"
+                "file": "Bible/詩篇擷思.md"
               }
             }
           }
@@ -182,8 +184,8 @@
   },
   "active": "e46074152cd3318f",
   "lastOpenFiles": [
-    "Bible/詩篇擷思.md",
     "Bible/attachments/C.S.Lewis_詩篇擷思.pdf",
+    "Bible/詩篇擷思.md",
     "Bible/恩典現場.md",
     "未命名",
     "Dialy/靈修日記/2023-08-03.md",
