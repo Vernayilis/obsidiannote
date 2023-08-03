@@ -25,7 +25,7 @@
             "state": {
               "type": "pdf-annotator",
               "state": {
-                "file": "Bible/從哀傷到歡呼_annotation.md"
+                "file": "Bible/詩篇擷思_annotation.md"
               }
             }
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible/從哀傷到歡呼_annotation.md",
+                "file": "Bible/詩篇擷思_annotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible/從哀傷到歡呼_annotation.md",
+                "file": "Bible/詩篇擷思_annotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible/從哀傷到歡呼_annotation.md"
+                "file": "Bible/詩篇擷思_annotation.md"
               }
             }
           }
@@ -183,9 +183,9 @@
   "active": "80ad8ab1615cf52c",
   "lastOpenFiles": [
     "Bible/詩篇擷思.md",
-    "Bible/attachments/從哀傷到歡呼_詩篇與人生_楊牧谷.pdf",
-    "Bible/從哀傷到歡呼_annotation.md",
     "Bible/詩篇擷思_annotation.md",
+    "Bible/從哀傷到歡呼_annotation.md",
+    "Bible/attachments/從哀傷到歡呼_詩篇與人生_楊牧谷.pdf",
     "Bible/恩典現場.md",
     "Bible/attachments/C.S.Lewis_詩篇擷思.pdf",
     "未命名",
