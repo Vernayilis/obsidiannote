@@ -11,11 +11,9 @@
             "id": "e46074152cd3318f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Dialy/靈修日記/詩篇135.md",
-                "mode": "source",
-                "source": false
+                "file": "Bible/attachments/恩典現場-楊腓力.pdf"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dialy/靈修日記/詩篇135.md",
+                "file": "Bible/attachments/恩典現場-楊腓力.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dialy/靈修日記/詩篇135.md",
+                "file": "Bible/attachments/恩典現場-楊腓力.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dialy/靈修日記/詩篇135.md"
+                "file": "Bible/attachments/恩典現場-楊腓力.pdf"
               }
             }
           }
@@ -171,6 +169,7 @@
   "active": "e46074152cd3318f",
   "lastOpenFiles": [
     "Bible/恩典現場.md",
+    "Dialy/靈修日記/詩篇135.md",
     "Bible/attachments/恩典現場-楊腓力.pdf",
     "attachments/恩典現場-楊腓力.pdf",
     "X_Index 索引/2023.md",
@@ -186,7 +185,6 @@
     "Dialy/靈修日記/2023-07-12.md",
     "Dialy/靈修日記/2023-07-13.md",
     "02_Literture 文獻筆記/漫步.md",
-    "Dialy/靈修日記/詩篇135.md",
     "02_Literture 文獻筆記/第五漫步.md",
     "未命名.canvas",
     "Bible",
