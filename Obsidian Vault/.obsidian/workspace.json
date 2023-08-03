@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/詩篇擷思.md",
+                "file": "Bible/恩典現場.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80ad8ab1615cf52c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible/未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible/詩篇擷思.md",
+                "file": "Bible/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible/詩篇擷思.md",
+                "file": "Bible/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible/詩篇擷思.md"
+                "file": "Bible/未命名.md"
               }
             }
           }
@@ -169,12 +182,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "e46074152cd3318f",
+  "active": "80ad8ab1615cf52c",
   "lastOpenFiles": [
-    "Bible/attachments/從哀傷到歡呼_詩篇與人生_楊牧谷.pdf",
+    "Bible/恩典現場.md",
+    "Bible/未命名.md",
     "Bible/詩篇擷思_annotation.md",
     "Bible/詩篇擷思.md",
-    "Bible/恩典現場.md",
+    "Bible/attachments/從哀傷到歡呼_詩篇與人生_楊牧谷.pdf",
     "Bible/attachments/C.S.Lewis_詩篇擷思.pdf",
     "未命名",
     "Dialy/靈修日記/2023-08-03.md",
