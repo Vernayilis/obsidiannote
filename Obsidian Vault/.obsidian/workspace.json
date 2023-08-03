@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3ce2619606b09b86",
@@ -77,7 +76,7 @@
       {
         "id": "b2cb4851ffd7fcbc",
         "type": "tabs",
-        "dimension": 28.519417475728154,
+        "dimension": 48.45360824742269,
         "children": [
           {
             "id": "be0d0af4b9907db5",
@@ -118,13 +117,12 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "6fb47a35601b7bde",
+        "id": "9df051b3ded3d49a",
         "type": "tabs",
-        "dimension": 41.14077669902913,
+        "dimension": 25.77319587628866,
         "children": [
           {
             "id": "1a5ce51804c847b9",
@@ -139,7 +137,7 @@
       {
         "id": "36137b9098c4db20",
         "type": "tabs",
-        "dimension": 30.339805825242717,
+        "dimension": 25.77319587628866,
         "children": [
           {
             "id": "f1a73b0f53af5ca0",
@@ -156,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5,
-    "collapsed": true
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,9 +168,9 @@
   },
   "active": "e46074152cd3318f",
   "lastOpenFiles": [
-    "Bible/attachments/C.S.Lewis_詩篇擷思.pdf",
-    "Bible/詩篇擷思.md",
     "Bible/恩典現場.md",
+    "Bible/詩篇擷思.md",
+    "Bible/attachments/C.S.Lewis_詩篇擷思.pdf",
     "未命名",
     "Dialy/靈修日記/2023-08-03.md",
     "Bible/attachments/恩典現場-楊腓力.pdf",
