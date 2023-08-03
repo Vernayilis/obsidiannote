@@ -74,3 +74,17 @@ annotation-target: C.S.Lewis_詩篇擷思.pdf
 >%%TAGS%%
 >
 ^rboemn3btee
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-03T09:31:35.414Z","updated":"2023-08-03T09:31:35.414Z","document":{"title":"1導論","link":[{"href":"urn:x-pdf:d6d00c7d2da6f243964c262b78dea417"},{"href":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf"}],"documentFingerprint":"d6d00c7d2da6f243964c262b78dea417"},"uri":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","target":[{"source":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","selector":[{"type":"TextPositionSelector","start":2490,"end":2554},{"type":"TextQuoteSelector","exact":"當他採用人的語言表達自己時，必出以詩的形式，因為詩歌恰似一種雛形的『道成肉身』，同鮮明的意象，將原本無聲無形的事物具體烘託出來。","prefix":"又為了娛悅人、天使和一切受造，邊憑其雄偉的想像創造了大自然的神，","suffix":"  此外，無妨記住——當神道成肉身，取了人的樣式時，他實則已甘心"}]}]}
+>```
+>%%
+>*%%PREFIX%%又為了娛悅人、天使和一切受造，邊憑其雄偉的想像創造了大自然的神，%%HIGHLIGHT%% ==當他採用人的語言表達自己時，必出以詩的形式，因為詩歌恰似一種雛形的『道成肉身』，同鮮明的意象，將原本無聲無形的事物具體烘託出來。== %%POSTFIX%%此外，無妨記住——當神道成肉身，取了人的樣式時，他實則已甘心*
+>%%LINK%%[[#^pj1olqq0ym|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^pj1olqq0ym
