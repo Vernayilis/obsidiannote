@@ -60,3 +60,17 @@ annotation-target: C.S.Lewis_詩篇擷思.pdf
 >%%TAGS%%
 >
 ^9ddwn2hkev
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-03T09:30:54.560Z","updated":"2023-08-03T09:30:54.560Z","document":{"title":"1導論","link":[{"href":"urn:x-pdf:d6d00c7d2da6f243964c262b78dea417"},{"href":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf"}],"documentFingerprint":"d6d00c7d2da6f243964c262b78dea417"},"uri":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","target":[{"source":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","selector":[{"type":"TextPositionSelector","start":6819,"end":6880},{"type":"TextQuoteSelector","exact":"也許不僅按神的標準看，我們是罪人，就是按人的標準——  一切講理的人都認可，也常希望別人奉守的準則一一來看，我們也有過失。","prefix":"人能倚靠自己的良善。 現在，猶太教式的民事審判卻尖銳的提醒我們，","suffix":" 幾乎無可抵賴的人人都有虧欠別人的地方，因為誰真相信在一切與人的"}]}]}
+>```
+>%%
+>*%%PREFIX%%人能倚靠自己的良善。 現在，猶太教式的民事審判卻尖銳的提醒我們，%%HIGHLIGHT%% ==也許不僅按神的標準看，我們是罪人，就是按人的標準——  一切講理的人都認可，也常希望別人奉守的準則一一來看，我們也有過失。== %%POSTFIX%%幾乎無可抵賴的人人都有虧欠別人的地方，因為誰真相信在一切與人的*
+>%%LINK%%[[#^rboemn3btee|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^rboemn3btee
