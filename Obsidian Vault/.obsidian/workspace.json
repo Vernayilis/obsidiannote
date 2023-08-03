@@ -11,9 +11,11 @@
             "id": "e46074152cd3318f",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "Bible/詩篇擷思_annotation.md"
+                "file": "Bible/詩篇擷思.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible/詩篇擷思_annotation.md",
+                "file": "Bible/詩篇擷思.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible/詩篇擷思_annotation.md",
+                "file": "Bible/詩篇擷思.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible/詩篇擷思_annotation.md"
+                "file": "Bible/詩篇擷思.md"
               }
             }
           }
@@ -167,11 +169,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "d980bedf0cc2f52e",
+  "active": "e46074152cd3318f",
   "lastOpenFiles": [
+    "Bible/attachments/從哀傷到歡呼_詩篇與人生_楊牧谷.pdf",
+    "Bible/詩篇擷思_annotation.md",
     "Bible/詩篇擷思.md",
     "Bible/恩典現場.md",
-    "Bible/詩篇擷思_annotation.md",
     "Bible/attachments/C.S.Lewis_詩篇擷思.pdf",
     "未命名",
     "Dialy/靈修日記/2023-08-03.md",
@@ -199,7 +202,6 @@
     "02_Literture 文獻筆記/第六漫步.md",
     "02_Literture 文獻筆記/盧梭.md",
     "Dialy/靈修日記",
-    "X_Index 索引",
-    "Dialy"
+    "X_Index 索引"
   ]
 }
