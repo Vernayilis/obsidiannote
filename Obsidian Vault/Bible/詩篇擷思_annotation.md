@@ -116,3 +116,17 @@ annotation-target: C.S.Lewis_詩篇擷思.pdf
 >%%TAGS%%
 >
 ^yy2x02eqw7
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-03T09:33:18.010Z","updated":"2023-08-03T09:33:18.010Z","document":{"title":"1導論","link":[{"href":"urn:x-pdf:d6d00c7d2da6f243964c262b78dea417"},{"href":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf"}],"documentFingerprint":"d6d00c7d2da6f243964c262b78dea417"},"uri":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","target":[{"source":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","selector":[{"type":"TextPositionSelector","start":5085,"end":5169},{"type":"TextQuoteSelector","exact":"古猶太人和我們一樣，把神的審判想像成類似地方法院上的審判。  不同的是，在基督徒看來，這是一件刑事官司，他本人是被告;  在猶太人看來，這是一件民事官司，他本人是原告。","prefix":"誇耀。』  （三十五24）  為什麼這樣呢？  理由很簡單。  ","suffix":"  前者希望被判無罪，或者赦免;  後者希望自己勝訴，獲得巨額賠"}]}]}
+>```
+>%%
+>*%%PREFIX%%誇耀。』  （三十五24）  為什麼這樣呢？  理由很簡單。%%HIGHLIGHT%% ==古猶太人和我們一樣，把神的審判想像成類似地方法院上的審判。  不同的是，在基督徒看來，這是一件刑事官司，他本人是被告;  在猶太人看來，這是一件民事官司，他本人是原告。== %%POSTFIX%%前者希望被判無罪，或者赦免;  後者希望自己勝訴，獲得巨額賠*
+>%%LINK%%[[#^hksxczdczxh|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^hksxczdczxh
