@@ -35,7 +35,7 @@
             "state": {
               "type": "pdf-annotator",
               "state": {
-                "file": "Bible/詩篇擷思_annotation.md"
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md"
               }
             }
           }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible/詩篇擷思_annotation.md",
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible/詩篇擷思_annotation.md",
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible/詩篇擷思_annotation.md"
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md"
               }
             }
           }
@@ -193,8 +193,8 @@
   "active": "952c61276124ea61",
   "lastOpenFiles": [
     "Bible/詩篇擷思.md",
-    "Bible/奧古斯丁詩篇闡釋_annotation.md",
     "Bible/詩篇擷思_annotation.md",
+    "Bible/奧古斯丁詩篇闡釋_annotation.md",
     "Bible/attachments/聖經詩篇闡釋-奧古斯丁.pdf",
     "Bible/attachments/C.S.Lewis_詩篇擷思.pdf",
     "Bible/從哀傷到歡呼_annotation.md",
