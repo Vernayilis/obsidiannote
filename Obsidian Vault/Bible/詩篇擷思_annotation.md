@@ -88,3 +88,31 @@ annotation-target: C.S.Lewis_詩篇擷思.pdf
 >%%TAGS%%
 >
 ^pj1olqq0ym
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-03T09:32:03.449Z","updated":"2023-08-03T09:32:03.449Z","document":{"title":"1導論","link":[{"href":"urn:x-pdf:d6d00c7d2da6f243964c262b78dea417"},{"href":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf"}],"documentFingerprint":"d6d00c7d2da6f243964c262b78dea417"},"uri":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","target":[{"source":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","selector":[{"type":"TextPositionSelector","start":2944,"end":3103},{"type":"TextQuoteSelector","exact":"聖母馬利亞的頌歌，在甜美中不失剛烈，甚至頗有底波拉之風，可媲美主自己的話語中常有的凌歷，這種氣勢是一般聖母像未曾捕捉到的。  我相信主的家風，從各方面看，必定『溫柔敦厚』，但或許不是聖詩作者們想像的那種; 你甚至可以猜測，在有些情況下，可能帶有某種恰到好處的嚴峻，正是耶路撒冷人心目中粗獷的北方方言所特有的風味。  ）","prefix":"，『有其母必有其子』的原則，是否僅適用於語法的相似上？  其實，","suffix":" 未曾企圖涵蓋詩篇的各樣主題 的確，在本書中，我並沒有盡業餘者所"}]}]}
+>```
+>%%
+>*%%PREFIX%%，『有其母必有其子』的原則，是否僅適用於語法的相似上？  其實，%%HIGHLIGHT%% ==聖母馬利亞的頌歌，在甜美中不失剛烈，甚至頗有底波拉之風，可媲美主自己的話語中常有的凌歷，這種氣勢是一般聖母像未曾捕捉到的。  我相信主的家風，從各方面看，必定『溫柔敦厚』，但或許不是聖詩作者們想像的那種; 你甚至可以猜測，在有些情況下，可能帶有某種恰到好處的嚴峻，正是耶路撒冷人心目中粗獷的北方方言所特有的風味。  ）== %%POSTFIX%%未曾企圖涵蓋詩篇的各樣主題 的確，在本書中，我並沒有盡業餘者所*
+>%%LINK%%[[#^5uiwlnh66zb|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^5uiwlnh66zb
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-03T09:32:29.889Z","text":"好生動的比喻啊TT","updated":"2023-08-03T09:32:29.889Z","document":{"title":"1導論","link":[{"href":"urn:x-pdf:d6d00c7d2da6f243964c262b78dea417"},{"href":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf"}],"documentFingerprint":"d6d00c7d2da6f243964c262b78dea417"},"uri":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","target":[{"source":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","selector":[{"type":"TextPositionSelector","start":3307,"end":3419},{"type":"TextQuoteSelector","exact":"書一開始，我便先談那些初讀時頗令我反感的詩篇特色。 與我同時代的人當能了解為什麼。  我們這一代在童年時所接受的教導是，盤中的每樣菜都要吃，不可偏食;  而一頓飯要吃得津津有味，秘訣在於先吃不好吃的，好吃的留在後頭慢慢品嘗。","prefix":"量少談，因為這是一項牽涉廣泛的課題，不是我能力可及的。  並且，","suffix":"    我所根據的譯文大抵以聖公會的祈禱書為主，這是寇弗岱爾（C"}]}]}
+>```
+>%%
+>*%%PREFIX%%量少談，因為這是一項牽涉廣泛的課題，不是我能力可及的。  並且，%%HIGHLIGHT%% ==書一開始，我便先談那些初讀時頗令我反感的詩篇特色。 與我同時代的人當能了解為什麼。  我們這一代在童年時所接受的教導是，盤中的每樣菜都要吃，不可偏食;  而一頓飯要吃得津津有味，秘訣在於先吃不好吃的，好吃的留在後頭慢慢品嘗。== %%POSTFIX%%我所根據的譯文大抵以聖公會的祈禱書為主，這是寇弗岱爾（C*
+>%%LINK%%[[#^yy2x02eqw7|show annotation]]
+>%%COMMENT%%
+>好生動的比喻啊TT
+>%%TAGS%%
+>
+^yy2x02eqw7
