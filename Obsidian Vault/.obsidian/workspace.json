@@ -11,11 +11,9 @@
             "id": "e46074152cd3318f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Bible/恩典現場.md",
-                "mode": "source",
-                "source": false
+                "file": "Bible/attachments/C.S.Lewis_詩篇擷思.pdf"
               }
             }
           },
@@ -31,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible/詩篇擷思.md",
+                "file": "Bible/attachments/C.S.Lewis_詩篇擷思.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible/詩篇擷思.md",
+                "file": "Bible/attachments/C.S.Lewis_詩篇擷思.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible/詩篇擷思.md"
+                "file": "Bible/attachments/C.S.Lewis_詩篇擷思.pdf"
               }
             }
           }
@@ -182,11 +179,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "fc685bdfacc47c3e",
+  "active": "e46074152cd3318f",
   "lastOpenFiles": [
-    "Bible/attachments/C.S.Lewis_詩篇擷思.pdf",
     "Bible/恩典現場.md",
     "Bible/詩篇擷思.md",
+    "Bible/attachments/C.S.Lewis_詩篇擷思.pdf",
     "未命名",
     "Dialy/靈修日記/2023-08-03.md",
     "Bible/attachments/恩典現場-楊腓力.pdf",
@@ -214,7 +211,6 @@
     "02_Literture 文獻筆記/盧梭.md",
     "Dialy/靈修日記",
     "X_Index 索引",
-    "Dialy",
-    "02_Literture 文獻筆記"
+    "Dialy"
   ]
 }
