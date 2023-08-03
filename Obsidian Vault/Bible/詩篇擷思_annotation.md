@@ -30,3 +30,33 @@ annotation-target: C.S.Lewis_詩篇擷思.pdf
 >%%TAGS%%
 >
 ^brkh7nx2yvd
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-03T09:28:50.542Z","text":"我好像沒有特別注意過這點，閱讀時考慮作者的處境（甚至是他當時可能的成長背景文化、性格以至於寫作風格），但忽略了身為罪人這一點。\n\n不過有時候我把這一切可能產生的偏差解讀為情緒，「因為他憤怒、他委屈」這樣也可以說是我有看見人的軟弱。","updated":"2023-08-03T09:28:50.542Z","document":{"title":"1導論","link":[{"href":"urn:x-pdf:d6d00c7d2da6f243964c262b78dea417"},{"href":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf"}],"documentFingerprint":"d6d00c7d2da6f243964c262b78dea417"},"uri":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","target":[{"source":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","selector":[{"type":"TextPositionSelector","start":9513,"end":9539},{"type":"TextQuoteSelector","exact":"當然，詩人不久便陷入以為自己有理便是義人的混淆中了。","prefix":"冤屈通常很難保持溫柔敦厚的。   詩篇中的自義傾向   9 9 ","suffix":"  這種混淆出現在我已引錄過的詩篇第七篇中，3 至5 節，詩人表"}]}]}
+>```
+>%%
+>*%%PREFIX%%冤屈通常很難保持溫柔敦厚的。   詩篇中的自義傾向   9 9%%HIGHLIGHT%% ==當然，詩人不久便陷入以為自己有理便是義人的混淆中了。== %%POSTFIX%%這種混淆出現在我已引錄過的詩篇第七篇中，3 至5 節，詩人表*
+>%%LINK%%[[#^nkm12pluwyq|show annotation]]
+>%%COMMENT%%
+>我好像沒有特別注意過這點，閱讀時考慮作者的處境（甚至是他當時可能的成長背景文化、性格以至於寫作風格），但忽略了身為罪人這一點。
+>
+>不過有時候我把這一切可能產生的偏差解讀為情緒，「因為他憤怒、他委屈」這樣也可以說是我有看見人的軟弱。
+>%%TAGS%%
+>
+^nkm12pluwyq
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-03T09:29:23.865Z","text":"嗯，我再默念幾遍這節之後仍然是這樣想的，我看見詩人迫切的渴望神的公義，這種公義存在於他自己的理解（我的所有詮釋都建立於「人的所知並不完全」的前提），所以對詩人而言「我的公正」為真；Lewis強調的則是詩人這種想法實際上並不符合客觀實情的面向。","updated":"2023-08-03T09:29:23.865Z","document":{"title":""},"references":["nkm12pluwyq"],"target":[{"source":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf"}],"uri":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== %%POSTFIX%%*
+>%%LINK%%[[#^9ddwn2hkev|show annotation]]
+>%%COMMENT%%
+>嗯，我再默念幾遍這節之後仍然是這樣想的，我看見詩人迫切的渴望神的公義，這種公義存在於他自己的理解（我的所有詮釋都建立於「人的所知並不完全」的前提），所以對詩人而言「我的公正」為真；Lewis強調的則是詩人這種想法實際上並不符合客觀實情的面向。
+>%%TAGS%%
+>
+^9ddwn2hkev
