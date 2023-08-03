@@ -11,8 +11,12 @@
             "id": "1f093b1e3cf7a2c1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dialy/靈修日記/2023-08-03.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -171,9 +175,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "1f093b1e3cf7a2c1",
+  "active": "1a5ce51804c847b9",
   "lastOpenFiles": [
     "Dialy/靈修日記/2023-08-03.md",
+    "X_Index 索引/2023.md",
     "Dialy/靈修日記/2023-08-02.md",
     "Dialy/靈修日記/2023-07-25.md",
     "Dialy/靈修日記/2023-08-01.md",
@@ -181,7 +186,6 @@
     "Dialy/靈修日記/2023-07-14.md",
     "Dialy/靈修日記/2023-07-12.md",
     "Dialy/靈修日記/2023-07-13.md",
-    "X_Index 索引/2023.md",
     "02_Literture 文獻筆記/漫步.md",
     "Dialy/靈修日記/詩篇135.md",
     "02_Literture 文獻筆記/第五漫步.md",
