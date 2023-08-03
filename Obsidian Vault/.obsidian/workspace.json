@@ -11,23 +11,9 @@
             "id": "e46074152cd3318f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "Bible/詩篇擷思.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc685bdfacc47c3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible/詩篇擷思.md",
-                "mode": "source",
-                "source": false
+                "file": "Bible/詩篇擷思.md"
               }
             }
           }
