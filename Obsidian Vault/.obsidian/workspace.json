@@ -11,9 +11,11 @@
             "id": "e46074152cd3318f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Bible/attachments/恩典現場-楊腓力.pdf"
+                "file": "Dialy/靈修日記/2023-08-03.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible/attachments/恩典現場-楊腓力.pdf",
+                "file": "Dialy/靈修日記/2023-08-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible/attachments/恩典現場-楊腓力.pdf",
+                "file": "Dialy/靈修日記/2023-08-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible/attachments/恩典現場-楊腓力.pdf"
+                "file": "Dialy/靈修日記/2023-08-03.md"
               }
             }
           }
@@ -168,9 +170,9 @@
   },
   "active": "e46074152cd3318f",
   "lastOpenFiles": [
+    "Bible/attachments/恩典現場-楊腓力.pdf",
     "Bible/恩典現場.md",
     "Dialy/靈修日記/詩篇135.md",
-    "Bible/attachments/恩典現場-楊腓力.pdf",
     "attachments/恩典現場-楊腓力.pdf",
     "X_Index 索引/2023.md",
     "未命名 1.canvas",
