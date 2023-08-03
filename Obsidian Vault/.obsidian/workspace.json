@@ -130,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "6fb47a35601b7bde",
@@ -179,7 +180,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "e46074152cd3318f",
+  "active": "ceb74cd6a5e0dc3f",
   "lastOpenFiles": [
     "Bible/恩典現場.md",
     "Bible/詩篇擷思.md",
