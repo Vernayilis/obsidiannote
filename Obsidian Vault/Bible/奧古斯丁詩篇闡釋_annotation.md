@@ -165,15 +165,16 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 ^isp5duwo6h
 
 
+
 >%%
 >```annotation-json
->{"created":"2023-08-04T03:36:05.217Z","updated":"2023-08-04T03:36:05.217Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3520870,"end":3520887},{"type":"TextQuoteSelector","exact":" before the Angel","prefix":"ith Him whom thou askest.2. “And","suffix":"s will I sing unto Thee.” Not be"}]}]}
+>{"created":"2023-08-04T03:36:15.447Z","text":"看呂振中譯本的註釋奧古斯丁是讀七十士譯本沒錯了","updated":"2023-08-04T03:36:15.447Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3520870,"end":3520887},{"type":"TextQuoteSelector","exact":" before the Angel","prefix":"ith Him whom thou askest.2. “And","suffix":"s will I sing unto Thee.” Not be"}]}]}
 >```
 >%%
 >*%%PREFIX%%ith Him whom thou askest.2. “And%%HIGHLIGHT%% ==before the Angel== %%POSTFIX%%s will I sing unto Thee.” Not be*
->%%LINK%%[[#^cbkmtf7n5v|show annotation]]
+>%%LINK%%[[#^rijvbr0cnn|show annotation]]
 >%%COMMENT%%
->
+>看呂振中譯本的註釋奧古斯丁是讀七十士譯本沒錯了
 >%%TAGS%%
 >
-^cbkmtf7n5v
+^rijvbr0cnn
