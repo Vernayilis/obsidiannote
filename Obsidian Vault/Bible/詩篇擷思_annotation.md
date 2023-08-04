@@ -242,3 +242,17 @@ annotation-target: C.S.Lewis_詩篇擷思.pdf
 >%%TAGS%%
 >
 ^xqzfpoozu9k
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T12:48:38.351Z","updated":"2023-08-04T12:48:38.351Z","document":{"title":"1導論","link":[{"href":"urn:x-pdf:d6d00c7d2da6f243964c262b78dea417"},{"href":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf"}],"documentFingerprint":"d6d00c7d2da6f243964c262b78dea417"},"uri":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","target":[{"source":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","selector":[{"type":"TextPositionSelector","start":13925,"end":14015},{"type":"TextQuoteSelector","exact":"我所讀的異教作品包括些許希臘文學，些許拉丁文學，和一點北歐古文學。  在這些作品中，我只找到荒淫、近於禽獸的麻木不仁，和被視為天經地義的殘暴;  我找不到詩篇式憤怒和它那濃稠的恨。","prefix":"能找到;  當然，我若對異教文學懂得更多些，或能找著一二吧！  ","suffix":"  當然，這裡所指的僅限於作者第一人稱的抒情;  至於戲劇角色在"}]}]}
+>```
+>%%
+>*%%PREFIX%%能找到;  當然，我若對異教文學懂得更多些，或能找著一二吧！%%HIGHLIGHT%% ==我所讀的異教作品包括些許希臘文學，些許拉丁文學，和一點北歐古文學。  在這些作品中，我只找到荒淫、近於禽獸的麻木不仁，和被視為天經地義的殘暴;  我找不到詩篇式憤怒和它那濃稠的恨。== %%POSTFIX%%當然，這裡所指的僅限於作者第一人稱的抒情;  至於戲劇角色在*
+>%%LINK%%[[#^wzyypm4npbo|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^wzyypm4npbo
