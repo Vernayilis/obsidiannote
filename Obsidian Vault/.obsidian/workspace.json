@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e9575b23d34caaf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dialy/靈修日記/2023-08-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6a9a53e52eb5cf45",
             "type": "leaf",
             "state": {
@@ -30,9 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "64b056ba3c5557c0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "Bible/詩篇擷思_annotation.md"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3ce2619606b09b86",
@@ -196,10 +194,10 @@
   },
   "active": "6a9a53e52eb5cf45",
   "lastOpenFiles": [
-    "Dialy/靈修日記/2023-08-04.md",
-    "03_Reading/詩篇擷思_隨筆.md",
-    "03_Reading",
     "Bible/詩篇擷思_annotation.md",
+    "03_Reading/詩篇擷思_隨筆.md",
+    "Dialy/靈修日記/2023-08-04.md",
+    "03_Reading",
     "Bible/奧古斯丁詩篇闡釋_annotation.md",
     "X_Index 索引/2023.md",
     "Dialy/靈修日記/2023-03-15.md",
