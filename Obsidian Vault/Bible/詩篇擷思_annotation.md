@@ -214,3 +214,17 @@ annotation-target: C.S.Lewis_詩篇擷思.pdf
 >%%TAGS%%
 >
 ^0fkzejnuekrs
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T12:45:35.345Z","updated":"2023-08-04T12:45:35.345Z","document":{"title":"1導論","link":[{"href":"urn:x-pdf:d6d00c7d2da6f243964c262b78dea417"},{"href":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf"}],"documentFingerprint":"d6d00c7d2da6f243964c262b78dea417"},"uri":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","target":[{"source":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","selector":[{"type":"TextPositionSelector","start":13446,"end":13551},{"type":"TextQuoteSelector","exact":"你不斷發現，愈來愈發現，新約竟象舊約的摘錄，而主又一再重複、加強、接續、煉凈，並提升猶太教的道德教訓，他極少引進新的行為準則。  這是千千萬萬雖無學問卻固定讀經的基督教普遍具有的認識，幾乎就象格言一樣家喻戶曉。","prefix":"我的驚訝更是一輩子也忘不了。  這正是固定讀舊約的好處之一。  ","suffix":"  這點，今天的人似乎已經忘了，以至某一主前的遺典（無論確實成書"}]}]}
+>```
+>%%
+>*%%PREFIX%%我的驚訝更是一輩子也忘不了。  這正是固定讀舊約的好處之一。%%HIGHLIGHT%% ==你不斷發現，愈來愈發現，新約竟象舊約的摘錄，而主又一再重複、加強、接續、煉凈，並提升猶太教的道德教訓，他極少引進新的行為準則。  這是千千萬萬雖無學問卻固定讀經的基督教普遍具有的認識，幾乎就象格言一樣家喻戶曉。== %%POSTFIX%%這點，今天的人似乎已經忘了，以至某一主前的遺典（無論確實成書*
+>%%LINK%%[[#^eisjpu74vee|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^eisjpu74vee
