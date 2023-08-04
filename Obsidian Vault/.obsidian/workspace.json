@@ -89,7 +89,7 @@
       {
         "id": "b2cb4851ffd7fcbc",
         "type": "tabs",
-        "dimension": 48.45360824742268,
+        "dimension": 24.30133657351154,
         "children": [
           {
             "id": "6f872710cc2a9707",
@@ -109,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Reading/詩篇擷思_隨筆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Reading/詩篇擷思_隨筆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "03_Reading/詩篇擷思_隨筆.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,7 +143,7 @@
       {
         "id": "9df051b3ded3d49a",
         "type": "tabs",
-        "dimension": 25.773195876288653,
+        "dimension": 49.93924665856622,
         "children": [
           {
             "id": "1a5ce51804c847b9",
@@ -162,7 +158,7 @@
       {
         "id": "36137b9098c4db20",
         "type": "tabs",
-        "dimension": 25.773195876288653,
+        "dimension": 25.759416767922232,
         "children": [
           {
             "id": "f1a73b0f53af5ca0",
@@ -179,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 436.5,
-    "collapsed": true
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,10 +187,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6a9a53e52eb5cf45",
+  "active": "1a5ce51804c847b9",
   "lastOpenFiles": [
-    "Bible/詩篇擷思_annotation.md",
     "03_Reading/詩篇擷思_隨筆.md",
+    "Bible/詩篇擷思_annotation.md",
     "Dialy/靈修日記/2023-08-04.md",
     "03_Reading",
     "Bible/奧古斯丁詩篇闡釋_annotation.md",
