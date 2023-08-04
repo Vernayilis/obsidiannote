@@ -172,3 +172,17 @@ annotation-target: C.S.Lewis_詩篇擷思.pdf
 >%%TAGS%%
 >
 ^pbujqzygd4f
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T12:35:36.610Z","text":"還真是一針見血。這一定是深刻反省認罪才能有的看清事實的智慧。","updated":"2023-08-04T12:35:36.610Z","document":{"title":"1導論","link":[{"href":"urn:x-pdf:d6d00c7d2da6f243964c262b78dea417"},{"href":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf"}],"documentFingerprint":"d6d00c7d2da6f243964c262b78dea417"},"uri":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","target":[{"source":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","selector":[{"type":"TextPositionSelector","start":11916,"end":11999},{"type":"TextQuoteSelector","exact":"詩人不斷-反芻心裡的創傷，不斷藉機自虐，使痛苦加劇;  有這傾向，我們彷彿也砍刀自己的影子。  畢竟我們身上流著的血液，與這些兇狠的、自艾自憐的『野蠻人』並並無兩樣。","prefix":"承認，這麼預言著的時候，自己已獲得一種幸災樂禍的滿足。  此外，","suffix":"   咒詛詩讓我們看到傷害生靈的自然結果 正如我說的，這是詩篇的"}]}]}
+>```
+>%%
+>*%%PREFIX%%承認，這麼預言著的時候，自己已獲得一種幸災樂禍的滿足。  此外，%%HIGHLIGHT%% ==詩人不斷-反芻心裡的創傷，不斷藉機自虐，使痛苦加劇;  有這傾向，我們彷彿也砍刀自己的影子。  畢竟我們身上流著的血液，與這些兇狠的、自艾自憐的『野蠻人』並並無兩樣。== %%POSTFIX%%咒詛詩讓我們看到傷害生靈的自然結果 正如我說的，這是詩篇的*
+>%%LINK%%[[#^9sy58aawg2a|show annotation]]
+>%%COMMENT%%
+>還真是一針見血。這一定是深刻反省認罪才能有的看清事實的智慧。
+>%%TAGS%%
+>
+^9sy58aawg2a
