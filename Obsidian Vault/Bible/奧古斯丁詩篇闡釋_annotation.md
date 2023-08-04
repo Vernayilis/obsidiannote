@@ -236,3 +236,18 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^61tv0gggbgf
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T03:57:56.494Z","text":"因為　神的殿是聖的，這殿就是你們。\n林前3:17","updated":"2023-08-04T03:57:56.494Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3522274,"end":3522355},{"type":"TextQuoteSelector","exact":"The  Temple  of  God  is  holy,”  saith  the  Apostle,  “which  Temple  ye  are.”","prefix":"  God  is  to  beworshipped?...“","suffix":"5706  Butassuredly, as is manife"}]}]}
+>```
+>%%
+>*%%PREFIX%%God  is  to  beworshipped?...“%%HIGHLIGHT%% ==The  Temple  of  God  is  holy,”  saith  the  Apostle,  “which  Temple  ye  are.”== %%POSTFIX%%5706  Butassuredly, as is manife*
+>%%LINK%%[[#^1sbmzqjw0nb|show annotation]]
+>%%COMMENT%%
+>因為　神的殿是聖的，這殿就是你們。
+>林前3:17
+>%%TAGS%%
+>
+^1sbmzqjw0nb
