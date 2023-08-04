@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "c003573c870c721d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "X_Index 索引/2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "64b056ba3c5557c0",
             "type": "leaf",
             "state": {
@@ -109,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03_Reading/詩篇擷思_隨筆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03_Reading/詩篇擷思_隨筆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "03_Reading/詩篇擷思_隨筆.md"
+              }
             }
           }
         ]
@@ -187,14 +203,14 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "1a5ce51804c847b9",
+  "active": "6a9a53e52eb5cf45",
   "lastOpenFiles": [
+    "X_Index 索引/2023.md",
     "03_Reading/詩篇擷思_隨筆.md",
     "Bible/詩篇擷思_annotation.md",
     "Dialy/靈修日記/2023-08-04.md",
     "03_Reading",
     "Bible/奧古斯丁詩篇闡釋_annotation.md",
-    "X_Index 索引/2023.md",
     "Dialy/靈修日記/2023-03-15.md",
     "Dialy/靈修日記/2023-08-03.md",
     "Bible/詩篇135.md",
