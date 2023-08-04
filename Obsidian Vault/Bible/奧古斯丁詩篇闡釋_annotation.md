@@ -75,3 +75,17 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >#Verse
 ^75v2bzglpq3
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T03:12:18.570Z","text":"看起來奧古斯丁在這邊討論的問題不存在於中文譯本裡面（neb也是使用\"praise\"這個字），但有可能是更精準的，前幾篇詩篇裡面讚美的原文是「承認」的意思，奧古斯丁便說明承認的兩個面向：所有人都知道的「認罪」和鮮少人會想到的「讚美」。光是這一點就值得多想一下，譯本帶來思考上的多元性，因為中譯本翻譯得太對（？）而略過這一層。","updated":"2023-08-04T03:12:18.570Z","document":{"title":""},"references":["j807a94gtii"],"target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== %%POSTFIX%%*
+>%%LINK%%[[#^atyhu72nog|show annotation]]
+>%%COMMENT%%
+>看起來奧古斯丁在這邊討論的問題不存在於中文譯本裡面（neb也是使用"praise"這個字），但有可能是更精準的，前幾篇詩篇裡面讚美的原文是「承認」的意思，奧古斯丁便說明承認的兩個面向：所有人都知道的「認罪」和鮮少人會想到的「讚美」。光是這一點就值得多想一下，譯本帶來思考上的多元性，因為中譯本翻譯得太對（？）而略過這一層。
+>%%TAGS%%
+>
+^atyhu72nog
