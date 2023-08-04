@@ -97,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md"
+              }
             }
           }
         ]
@@ -176,13 +180,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "1a5ce51804c847b9",
+  "active": "d980bedf0cc2f52e",
   "lastOpenFiles": [
+    "Bible/詩篇擷思_annotation.md",
     "Bible/奧古斯丁詩篇闡釋_annotation.md",
     "X_Index 索引/2023.md",
     "Dialy/靈修日記/2023-03-15.md",
     "Dialy/靈修日記/2023-08-04.md",
-    "Bible/詩篇擷思_annotation.md",
     "Dialy/靈修日記/2023-08-03.md",
     "Bible/詩篇135.md",
     "02_Literture 文獻筆記/尋求平衡.md",
