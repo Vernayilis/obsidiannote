@@ -130,3 +130,17 @@ annotation-target: C.S.Lewis_詩篇擷思.pdf
 >%%TAGS%%
 >
 ^hksxczdczxh
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T12:30:01.918Z","text":"我覺得耶穌自己也是的話就是最好的理由了，無可反駁，哈哈","updated":"2023-08-04T12:30:01.918Z","document":{"title":"1導論","link":[{"href":"urn:x-pdf:d6d00c7d2da6f243964c262b78dea417"},{"href":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf"}],"documentFingerprint":"d6d00c7d2da6f243964c262b78dea417"},"uri":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","target":[{"source":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","selector":[{"type":"TextPositionSelector","start":10965,"end":11038},{"type":"TextQuoteSelector","exact":"而詩篇長久以來被教會用來敬拜神，並不算違背神的旨意，且記得主自己的思想和言辭處處受到詩篇的影響;  那麼，若是可能的話，我們最好選擇從中攝取教訓。","prefix":"髓也犧牲了;  此外，若我們相信整本聖經『都有可供學習的地方』，","suffix":"  至於如何攝取？  部分答案必須等到末後幾章討論經文的寓意時。"}]}]}
+>```
+>%%
+>*%%PREFIX%%髓也犧牲了;  此外，若我們相信整本聖經『都有可供學習的地方』，%%HIGHLIGHT%% ==而詩篇長久以來被教會用來敬拜神，並不算違背神的旨意，且記得主自己的思想和言辭處處受到詩篇的影響;  那麼，若是可能的話，我們最好選擇從中攝取教訓。== %%POSTFIX%%至於如何攝取？  部分答案必須等到末後幾章討論經文的寓意時。*
+>%%LINK%%[[#^lwwuxrr0udo|show annotation]]
+>%%COMMENT%%
+>我覺得耶穌自己也是的話就是最好的理由了，無可反駁，哈哈
+>%%TAGS%%
+>
+^lwwuxrr0udo
