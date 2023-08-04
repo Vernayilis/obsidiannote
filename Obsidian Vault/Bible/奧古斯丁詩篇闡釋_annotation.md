@@ -134,3 +134,17 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^02lt0e6wkdct
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T03:32:34.955Z","updated":"2023-08-04T03:32:34.955Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3520577,"end":3520584},{"type":"TextQuoteSelector","exact":"lodging","prefix":" ask, and if we have prepared a ","suffix":" or an house for God, there do w"}]}]}
+>```
+>%%
+>*%%PREFIX%%ask, and if we have prepared a%%HIGHLIGHT%% ==lodging== %%POSTFIX%%or an house for God, there do w*
+>%%LINK%%[[#^eeto3e8p61l|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>#vocabulary
+^eeto3e8p61l
