@@ -270,3 +270,17 @@ annotation-target: C.S.Lewis_詩篇擷思.pdf
 >%%TAGS%%
 >
 ^h4z6gg30rop
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T12:54:16.239Z","text":"吼又TTTTT不要這麼中肯啦（我覺得自己有些猶疑卻步的價值觀一直被魯益師的文字鞏固","updated":"2023-08-04T12:54:16.239Z","document":{"title":"1導論","link":[{"href":"urn:x-pdf:d6d00c7d2da6f243964c262b78dea417"},{"href":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf"}],"documentFingerprint":"d6d00c7d2da6f243964c262b78dea417"},"uri":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","target":[{"source":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","selector":[{"type":"TextPositionSelector","start":14927,"end":15075},{"type":"TextQuoteSelector","exact":"令人震驚的是，他們既然這樣認為，為什麼一點都不憤怒？  我們的領導者把最可怕的罪行謬加在一群『人』身上，好激起另一群『人』流血反抗，這樣的事竟被他們視為天經地義。  他們甚至無動於衷，不覺的有什麼不妥。  今天，在我看來，世人中最殘暴的，或者任何一個懂得打抱不平的小孩，都比這群年輕人還可就葯些。","prefix":"是謊言，是政府當局捏造出來的宣傳，目的在激發敵愾同仇的士氣。  ","suffix":"  他們一口咬定納粹暴行是盟軍統帥的宣傳傑作，倘若這樣相信的同時"}]}]}
+>```
+>%%
+>*%%PREFIX%%是謊言，是政府當局捏造出來的宣傳，目的在激發敵愾同仇的士氣。%%HIGHLIGHT%% ==令人震驚的是，他們既然這樣認為，為什麼一點都不憤怒？  我們的領導者把最可怕的罪行謬加在一群『人』身上，好激起另一群『人』流血反抗，這樣的事竟被他們視為天經地義。  他們甚至無動於衷，不覺的有什麼不妥。  今天，在我看來，世人中最殘暴的，或者任何一個懂得打抱不平的小孩，都比這群年輕人還可就葯些。== %%POSTFIX%%他們一口咬定納粹暴行是盟軍統帥的宣傳傑作，倘若這樣相信的同時*
+>%%LINK%%[[#^cj0e3hw44r|show annotation]]
+>%%COMMENT%%
+>吼又TTTTT不要這麼中肯啦（我覺得自己有些猶疑卻步的價值觀一直被魯益師的文字鞏固
+>%%TAGS%%
+>
+^cj0e3hw44r
