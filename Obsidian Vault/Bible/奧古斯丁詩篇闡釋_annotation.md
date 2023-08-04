@@ -104,3 +104,17 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^01nkpndgc89k
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T03:26:55.572Z","updated":"2023-08-04T03:26:55.572Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3521509,"end":3521638},{"type":"TextQuoteSelector","exact":"“A whole burnt offering is a sacrifice where the whole is burnt, for the Greek word ὅλον, (holocaustum, Lat.)meaneth ‘whole.’”—C.","prefix":"bi. Matt. xi. 25.5702 [He adds: ","suffix":"]5703 Acts xvii. 27, 28.5704 Isa"}]}]}
+>```
+>%%
+>*%%PREFIX%%bi. Matt. xi. 25.5702 [He adds:%%HIGHLIGHT%% ==“A whole burnt offering is a sacrifice where the whole is burnt, for the Greek word ὅλον, (holocaustum, Lat.)meaneth ‘whole.’”—C.== %%POSTFIX%%]5703 Acts xvii. 27, 28.5704 Isa*
+>%%LINK%%[[#^onufuamyknq|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^onufuamyknq
