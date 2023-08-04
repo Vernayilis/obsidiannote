@@ -148,3 +148,32 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >#vocabulary
 ^eeto3e8p61l
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T03:34:49.985Z","text":"「其實他離我們各人不遠；我們生活、動作、存留，都在乎他。」徒17:27, 28\n超誇張","updated":"2023-08-04T03:34:49.985Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3520643,"end":3520734},{"type":"TextQuoteSelector","exact":" “For He is not far from every one of us, for in Him we live, and move,and have our being.”","prefix":" do wespeak, there are we heard.","suffix":"5703 Nought maketh thee far off "}]}]}
+>```
+>%%
+>*%%PREFIX%%do wespeak, there are we heard.%%HIGHLIGHT%% ==“For He is not far from every one of us, for in Him we live, and move,and have our being.”== %%POSTFIX%%5703 Nought maketh thee far off*
+>%%LINK%%[[#^isp5duwo6h|show annotation]]
+>%%COMMENT%%
+>「其實他離我們各人不遠；我們生活、動作、存留，都在乎他。」徒17:27, 28
+>超誇張
+>%%TAGS%%
+>
+^isp5duwo6h
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T03:36:05.217Z","updated":"2023-08-04T03:36:05.217Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3520870,"end":3520887},{"type":"TextQuoteSelector","exact":" before the Angel","prefix":"ith Him whom thou askest.2. “And","suffix":"s will I sing unto Thee.” Not be"}]}]}
+>```
+>%%
+>*%%PREFIX%%ith Him whom thou askest.2. “And%%HIGHLIGHT%% ==before the Angel== %%POSTFIX%%s will I sing unto Thee.” Not be*
+>%%LINK%%[[#^cbkmtf7n5v|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^cbkmtf7n5v
