@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3ce2619606b09b86",
@@ -80,12 +79,24 @@
         "dimension": 48.45360824742268,
         "children": [
           {
+            "id": "6f872710cc2a9707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dialy/靈修日記/2023-08-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "be0d0af4b9907db5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
+                "file": "Dialy/靈修日記/2023-08-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
+                "file": "Dialy/靈修日記/2023-08-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md"
+                "file": "Dialy/靈修日記/2023-08-04.md"
               }
             }
           }
@@ -155,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5,
-    "collapsed": true
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,14 +178,14 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "e9575b23d34caaf5",
+  "active": "6f872710cc2a9707",
   "lastOpenFiles": [
+    "Bible/奧古斯丁詩篇闡釋_annotation.md",
     "Dialy/靈修日記/2023-08-04.md",
     "Bible/詩篇擷思_annotation.md",
     "Dialy/靈修日記/2023-08-03.md",
     "Bible/詩篇135.md",
     "02_Literture 文獻筆記/尋求平衡.md",
-    "Bible/奧古斯丁詩篇闡釋_annotation.md",
     "Bible/恩典現場.md",
     "Bible/詩篇擷思.md",
     "Bible/attachments/聖經詩篇闡釋-奧古斯丁.pdf",
