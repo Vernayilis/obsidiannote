@@ -200,3 +200,17 @@ annotation-target: C.S.Lewis_詩篇擷思.pdf
 >%%TAGS%%
 >
 ^276an78nldx
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T12:41:09.284Z","text":"對欸...對欸...（其實我之前應該有想到過吧好像有點熟悉但忘了","updated":"2023-08-04T12:41:09.284Z","document":{"title":"1導論","link":[{"href":"urn:x-pdf:d6d00c7d2da6f243964c262b78dea417"},{"href":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf"}],"documentFingerprint":"d6d00c7d2da6f243964c262b78dea417"},"uri":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","target":[{"source":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","selector":[{"type":"TextPositionSelector","start":12583,"end":12624},{"type":"TextQuoteSelector","exact":"所以，聖經說，我們要赦免弟兄七十個七次，不是為了四百九十次的冒犯，而是一次的冒犯。","prefix":"某一聯想有觸痛舊創，剎那間怒火中燒，先前的工夫頓時化為灰燼。  ","suffix":"  這麼說來，那令我難以釋懷的某人，豈不是將一纏人的試探，引進我"}]}]}
+>```
+>%%
+>*%%PREFIX%%某一聯想有觸痛舊創，剎那間怒火中燒，先前的工夫頓時化為灰燼。%%HIGHLIGHT%% ==所以，聖經說，我們要赦免弟兄七十個七次，不是為了四百九十次的冒犯，而是一次的冒犯。== %%POSTFIX%%這麼說來，那令我難以釋懷的某人，豈不是將一纏人的試探，引進我*
+>%%LINK%%[[#^0fkzejnuekrs|show annotation]]
+>%%COMMENT%%
+>對欸...對欸...（其實我之前應該有想到過吧好像有點熟悉但忘了
+>%%TAGS%%
+>
+^0fkzejnuekrs
