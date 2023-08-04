@@ -120,3 +120,17 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^n4x083pyjsp
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T03:30:16.070Z","text":"乾他的問題我真的要瘋掉，我感受到直述句跟提問句的張力差距（啊啊啊啊啊啊啊啊）","updated":"2023-08-04T03:30:16.070Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3520378,"end":3520404},{"type":"TextQuoteSelector","exact":"What mouth, save my heart?","prefix":"he words of my mouth” (ver. 1). ","suffix":" For there have we the voicewhic"}]}]}
+>```
+>%%
+>*%%PREFIX%%he words of my mouth” (ver. 1).%%HIGHLIGHT%% ==What mouth, save my heart?== %%POSTFIX%%For there have we the voicewhic*
+>%%LINK%%[[#^02lt0e6wkdct|show annotation]]
+>%%COMMENT%%
+>乾他的問題我真的要瘋掉，我感受到直述句跟提問句的張力差距（啊啊啊啊啊啊啊啊）
+>%%TAGS%%
+>
+^02lt0e6wkdct
