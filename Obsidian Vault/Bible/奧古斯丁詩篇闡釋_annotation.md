@@ -178,3 +178,33 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^rijvbr0cnn
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T03:44:09.704Z","text":"賽57:21我的　神說：惡人必不得平安！ (48:22也一樣)\n想說註釋怎麼回事原來是我自己看錯呵呵\n這個譯本我有點跟不上，當代翻譯得真的差好多","updated":"2023-08-04T03:44:09.704Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3521133,"end":3521177},{"type":"TextQuoteSelector","exact":"There is no joy, saith my God,to the wicked.","prefix":"oweth not the joy of the just: “","suffix":"”5704 The wicked rejoiceth in hi"}]}]}
+>```
+>%%
+>*%%PREFIX%%oweth not the joy of the just: “%%HIGHLIGHT%% ==There is no joy, saith my God,to the wicked.== %%POSTFIX%%”5704 The wicked rejoiceth in hi*
+>%%LINK%%[[#^eu3cudlp3hb|show annotation]]
+>%%COMMENT%%
+>賽57:21我的　神說：惡人必不得平安！ (48:22也一樣)
+>想說註釋怎麼回事原來是我自己看錯呵呵
+>這個譯本我有點跟不上，當代翻譯得真的差好多
+>%%TAGS%%
+>
+^eu3cudlp3hb
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T03:47:43.360Z","updated":"2023-08-04T03:47:43.360Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3521223,"end":3521229},{"type":"TextQuoteSelector","exact":"martyr","prefix":"ed rejoiceth in his tavern, the ","suffix":" in his chain. In what did that "}]}]}
+>```
+>%%
+>*%%PREFIX%%ed rejoiceth in his tavern, the%%HIGHLIGHT%% ==martyr== %%POSTFIX%%in his chain. In what did that*
+>%%LINK%%[[#^jpdao4xil9|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^jpdao4xil9
