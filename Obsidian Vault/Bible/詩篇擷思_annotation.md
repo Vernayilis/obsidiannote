@@ -144,3 +144,17 @@ annotation-target: C.S.Lewis_詩篇擷思.pdf
 >%%TAGS%%
 >
 ^lwwuxrr0udo
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T12:31:42.909Z","text":"看到這邊覺得Lewis的看法滿客觀的，連同前一章節「詩人自以為義的混淆」，堅持人所持有的罪性、或者說決不對罪惡的事妥協，這樣好像才比較正確。","updated":"2023-08-04T12:31:42.909Z","document":{"title":"1導論","link":[{"href":"urn:x-pdf:d6d00c7d2da6f243964c262b78dea417"},{"href":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf"}],"documentFingerprint":"d6d00c7d2da6f243964c262b78dea417"},"uri":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","target":[{"source":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","selector":[{"type":"TextPositionSelector","start":11208,"end":11310},{"type":"TextQuoteSelector","exact":"一、恨——啃蝕人心的恨、幸災樂禍的恨，赤裸裸的恨——的確存在於詩篇中;  二、若寬宥它、贊同它，甚至用它來為激蕩在自己心中的恨辯護，我們便與惡人成了一丘之貉。  唯有接受這兩點，進一步的討論才能免於偏頗。","prefix":"以為其中所流露的仇恨心態是神所稱許的。  我們必須認清兩件事情：","suffix":"     11 11 咒詛詩讓我們目睹恨狂野、天然的表現 首先，"}]}]}
+>```
+>%%
+>*%%PREFIX%%以為其中所流露的仇恨心態是神所稱許的。  我們必須認清兩件事情：%%HIGHLIGHT%% ==一、恨——啃蝕人心的恨、幸災樂禍的恨，赤裸裸的恨——的確存在於詩篇中;  二、若寬宥它、贊同它，甚至用它來為激蕩在自己心中的恨辯護，我們便與惡人成了一丘之貉。  唯有接受這兩點，進一步的討論才能免於偏頗。== %%POSTFIX%%11 11 咒詛詩讓我們目睹恨狂野、天然的表現 首先，*
+>%%LINK%%[[#^2glv9y4m9rr|show annotation]]
+>%%COMMENT%%
+>看到這邊覺得Lewis的看法滿客觀的，連同前一章節「詩人自以為義的混淆」，堅持人所持有的罪性、或者說決不對罪惡的事妥協，這樣好像才比較正確。
+>%%TAGS%%
+>
+^2glv9y4m9rr
