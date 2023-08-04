@@ -46,3 +46,17 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^j807a94gtii
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T03:04:14.118Z","updated":"2023-08-04T03:04:14.118Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3519556,"end":3519561},{"type":"TextQuoteSelector","exact":"aught","prefix":" understand confession to be of ","suffix":",save of sin. But was then our L"}]}]}
+>```
+>%%
+>*%%PREFIX%%understand confession to be of%%HIGHLIGHT%% ==aught== %%POSTFIX%%,save of sin. But was then our L*
+>%%LINK%%[[#^5t7omjvc9i7|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^5t7omjvc9i7
