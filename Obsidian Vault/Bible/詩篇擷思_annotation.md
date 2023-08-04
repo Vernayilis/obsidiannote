@@ -158,3 +158,17 @@ annotation-target: C.S.Lewis_詩篇擷思.pdf
 >%%TAGS%%
 >
 ^2glv9y4m9rr
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T12:35:11.151Z","updated":"2023-08-04T12:35:11.151Z","document":{"title":"1導論","link":[{"href":"urn:x-pdf:d6d00c7d2da6f243964c262b78dea417"},{"href":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf"}],"documentFingerprint":"d6d00c7d2da6f243964c262b78dea417"},"uri":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","target":[{"source":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","selector":[{"type":"TextPositionSelector","start":11792,"end":11825},{"type":"TextQuoteSelector","exact":"另一方面，在掩飾惡意免人察覺上，比起古希伯來人，我們更是技高一籌。","prefix":"屠殺、暴力層出不窮，殺牲祭神遍地流行，有些地區甚至實行人祭。  ","suffix":"  『等著瞧吧！  總有一天他會後悔的。』  我們這麼說，彷彿只"}]}]}
+>```
+>%%
+>*%%PREFIX%%屠殺、暴力層出不窮，殺牲祭神遍地流行，有些地區甚至實行人祭。%%HIGHLIGHT%% ==另一方面，在掩飾惡意免人察覺上，比起古希伯來人，我們更是技高一籌。== %%POSTFIX%%『等著瞧吧！  總有一天他會後悔的。』  我們這麼說，彷彿只*
+>%%LINK%%[[#^pbujqzygd4f|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^pbujqzygd4f
