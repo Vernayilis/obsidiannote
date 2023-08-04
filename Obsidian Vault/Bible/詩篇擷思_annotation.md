@@ -298,3 +298,18 @@ annotation-target: C.S.Lewis_詩篇擷思.pdf
 >%%TAGS%%
 >
 ^89chwziaxmx
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T13:09:58.777Z","text":"好深刻的見解（我說不出話）\n確實，我看見自己的影子，有時候我太縱容一些事情。","updated":"2023-08-04T13:09:58.777Z","document":{"title":"1導論","link":[{"href":"urn:x-pdf:d6d00c7d2da6f243964c262b78dea417"},{"href":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf"}],"documentFingerprint":"d6d00c7d2da6f243964c262b78dea417"},"uri":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","target":[{"source":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","selector":[{"type":"TextPositionSelector","start":16640,"end":16727},{"type":"TextQuoteSelector","exact":"詩篇中出言殘酷的部分正提醒我們，世界上的確有邪惡存在，是神所痛恨的，雖然他並不恨人。  這樣看來，不管人性或人的表達方式造成多麼嚴重的歪曲，神的話還是透過這些篇章傳達出來了。","prefix":"財。  其實，搶來的贓物早就賣掉了，有些還是累犯。  相較之下，","suffix":"  除了提供以上的借鏡外，這些咒詛詩篇對於靈修生活有助益嗎？  "}]}]}
+>```
+>%%
+>*%%PREFIX%%財。  其實，搶來的贓物早就賣掉了，有些還是累犯。  相較之下，%%HIGHLIGHT%% ==詩篇中出言殘酷的部分正提醒我們，世界上的確有邪惡存在，是神所痛恨的，雖然他並不恨人。  這樣看來，不管人性或人的表達方式造成多麼嚴重的歪曲，神的話還是透過這些篇章傳達出來了。== %%POSTFIX%%除了提供以上的借鏡外，這些咒詛詩篇對於靈修生活有助益嗎？*
+>%%LINK%%[[#^v2yikwu1pwp|show annotation]]
+>%%COMMENT%%
+>好深刻的見解（我說不出話）
+>確實，我看見自己的影子，有時候我太縱容一些事情。
+>%%TAGS%%
+>
+^v2yikwu1pwp
