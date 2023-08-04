@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf-annotator",
               "state": {
-                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md"
+                "file": "Bible/詩篇擷思_annotation.md"
               }
             }
           }
@@ -63,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dialy/靈修日記/2023-08-04.md",
+                "file": "Bible/詩篇擷思_annotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dialy/靈修日記/2023-08-04.md",
+                "file": "Bible/詩篇擷思_annotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dialy/靈修日記/2023-08-04.md"
+                "file": "Bible/詩篇擷思_annotation.md"
               }
             }
           }
@@ -181,13 +180,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6f872710cc2a9707",
+  "active": "e9575b23d34caaf5",
   "lastOpenFiles": [
+    "Dialy/靈修日記/2023-08-04.md",
     "Bible/奧古斯丁詩篇闡釋_annotation.md",
     "Bible/詩篇擷思_annotation.md",
     "X_Index 索引/2023.md",
     "Dialy/靈修日記/2023-03-15.md",
-    "Dialy/靈修日記/2023-08-04.md",
     "Dialy/靈修日記/2023-08-03.md",
     "Bible/詩篇135.md",
     "02_Literture 文獻筆記/尋求平衡.md",
