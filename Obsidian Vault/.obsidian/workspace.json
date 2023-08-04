@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Reading/未命名.md",
+                "file": "03_Reading/詩篇擷思_隨筆.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Reading/未命名.md",
+                "file": "03_Reading/詩篇擷思_隨筆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Reading/未命名.md",
+                "file": "03_Reading/詩篇擷思_隨筆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Reading/未命名.md"
+                "file": "03_Reading/詩篇擷思_隨筆.md"
               }
             }
           }
@@ -194,10 +194,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "d980bedf0cc2f52e",
+  "active": "6a9a53e52eb5cf45",
   "lastOpenFiles": [
     "Dialy/靈修日記/2023-08-04.md",
-    "03_Reading/未命名.md",
+    "03_Reading/詩篇擷思_隨筆.md",
     "03_Reading",
     "Bible/詩篇擷思_annotation.md",
     "Bible/奧古斯丁詩篇闡釋_annotation.md",
