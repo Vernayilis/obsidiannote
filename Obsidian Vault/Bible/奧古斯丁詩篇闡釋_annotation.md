@@ -89,3 +89,18 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^atyhu72nog
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T03:19:56.296Z","text":"我的天啊他不是平白無故討論這個問題，是因為稱謝神的主題相互呼應，「父啊，天地的主，我感謝你！因為你將這些事向聰明通達人就藏起來，向嬰孩就顯出來。」\n這篇第6節「耶和華雖高，仍看顧低微的人；他卻從遠處看出驕傲的人。」","updated":"2023-08-04T03:19:56.296Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3519971,"end":3520060},{"type":"TextQuoteSelector","exact":" He praised the Father, he praised God, because He despiseth not the humble,but the proud","prefix":"d hast revealedthem unto babes.”","suffix":". And such confession are we now"}]}]}
+>```
+>%%
+>*%%PREFIX%%d hast revealedthem unto babes.”%%HIGHLIGHT%% ==He praised the Father, he praised God, because He despiseth not the humble,but the proud== %%POSTFIX%%. And such confession are we now*
+>%%LINK%%[[#^01nkpndgc89k|show annotation]]
+>%%COMMENT%%
+>我的天啊他不是平白無故討論這個問題，是因為稱謝神的主題相互呼應，「父啊，天地的主，我感謝你！因為你將這些事向聰明通達人就藏起來，向嬰孩就顯出來。」
+>這篇第6節「耶和華雖高，仍看顧低微的人；他卻從遠處看出驕傲的人。」
+>%%TAGS%%
+>
+^01nkpndgc89k
