@@ -228,3 +228,17 @@ annotation-target: C.S.Lewis_詩篇擷思.pdf
 >%%TAGS%%
 >
 ^eisjpu74vee
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T12:46:03.522Z","text":"我笑瘋了，真的是「發明」","updated":"2023-08-04T12:46:03.522Z","document":{"title":"1導論","link":[{"href":"urn:x-pdf:d6d00c7d2da6f243964c262b78dea417"},{"href":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf"}],"documentFingerprint":"d6d00c7d2da6f243964c262b78dea417"},"uri":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","target":[{"source":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","selector":[{"type":"TextPositionSelector","start":13639,"end":13666},{"type":"TextQuoteSelector","exact":"彷彿主是尼采之流的哲學販子，特別擅長發明新的道德觀。 ","prefix":"指為含有基督教訓的『先聲』，基督徒便以為主的威信會因此受到折損，","suffix":" 其實，生於主前的每位聖哲，不管屬於猶太教或非猶太教，都是他的先"}]}]}
+>```
+>%%
+>*%%PREFIX%%指為含有基督教訓的『先聲』，基督徒便以為主的威信會因此受到折損，%%HIGHLIGHT%% ==彷彿主是尼采之流的哲學販子，特別擅長發明新的道德觀。== %%POSTFIX%%其實，生於主前的每位聖哲，不管屬於猶太教或非猶太教，都是他的先*
+>%%LINK%%[[#^xqzfpoozu9k|show annotation]]
+>%%COMMENT%%
+>我笑瘋了，真的是「發明」
+>%%TAGS%%
+>
+^xqzfpoozu9k
