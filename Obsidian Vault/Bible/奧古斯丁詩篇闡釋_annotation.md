@@ -212,13 +212,13 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 
 >%%
 >```annotation-json
->{"created":"2023-08-04T03:55:11.003Z","updated":"2023-08-04T03:55:11.003Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3521261,"end":3521273},{"type":"TextQuoteSelector","exact":"holyCrispina","prefix":" in his chain. In what did that ","suffix":" rejoice, whose festival is kept"}]}]}
+>{"created":"2023-08-04T03:55:11.003Z","text":"需要科普一下她素隨","updated":"2023-08-04T03:55:11.003Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3521261,"end":3521273},{"type":"TextQuoteSelector","exact":"holyCrispina","prefix":" in his chain. In what did that ","suffix":" rejoice, whose festival is kept"}]}]}
 >```
 >%%
 >*%%PREFIX%%in his chain. In what did that%%HIGHLIGHT%% ==holyCrispina== %%POSTFIX%%rejoice, whose festival is kept*
 >%%LINK%%[[#^a5fq6z8seop|show annotation]]
 >%%COMMENT%%
->
+>需要科普一下她素隨
 >%%TAGS%%
 >
 ^a5fq6z8seop
