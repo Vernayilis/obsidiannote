@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#vo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,12 +63,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3ce2619606b09b86",
@@ -180,7 +180,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "d980bedf0cc2f52e",
+  "active": "a045854b7e741910",
   "lastOpenFiles": [
     "Bible/詩篇擷思_annotation.md",
     "Bible/奧古斯丁詩篇闡釋_annotation.md",
