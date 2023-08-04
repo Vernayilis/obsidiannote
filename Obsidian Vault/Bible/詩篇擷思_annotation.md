@@ -284,3 +284,17 @@ annotation-target: C.S.Lewis_詩篇擷思.pdf
 >%%TAGS%%
 >
 ^cj0e3hw44r
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T13:08:54.107Z","updated":"2023-08-04T13:08:54.107Z","document":{"title":"1導論","link":[{"href":"urn:x-pdf:d6d00c7d2da6f243964c262b78dea417"},{"href":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf"}],"documentFingerprint":"d6d00c7d2da6f243964c262b78dea417"},"uri":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","target":[{"source":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","selector":[{"type":"TextPositionSelector","start":16272,"end":16360},{"type":"TextQuoteSelector","exact":"當然，神看待世人的仇敵，眼光與世人不同，因為他『不願罪人沉淪』：但是，無疑的，他對這些人所犯的罪確實深惡痛絕，像詩人所表達的那樣。  只是神的厭惡不是對罪人而發，乃是對罪而發。","prefix":"受表達方式的扭曲，一種屬神的聲音仍從這些咒詛詩篇中透漏出來。  ","suffix":"  罪不被容忍或寬宥，這點容不得商量。  如果人想保全性命，蛀牙"}]}]}
+>```
+>%%
+>*%%PREFIX%%受表達方式的扭曲，一種屬神的聲音仍從這些咒詛詩篇中透漏出來。%%HIGHLIGHT%% ==當然，神看待世人的仇敵，眼光與世人不同，因為他『不願罪人沉淪』：但是，無疑的，他對這些人所犯的罪確實深惡痛絕，像詩人所表達的那樣。  只是神的厭惡不是對罪人而發，乃是對罪而發。== %%POSTFIX%%罪不被容忍或寬宥，這點容不得商量。  如果人想保全性命，蛀牙*
+>%%LINK%%[[#^89chwziaxmx|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^89chwziaxmx
