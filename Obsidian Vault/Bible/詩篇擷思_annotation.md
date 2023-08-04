@@ -256,3 +256,17 @@ annotation-target: C.S.Lewis_詩篇擷思.pdf
 >%%TAGS%%
 >
 ^wzyypm4npbo
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T12:52:06.632Z","text":"太兇了吧魯師","updated":"2023-08-04T12:52:06.632Z","document":{"title":"1導論","link":[{"href":"urn:x-pdf:d6d00c7d2da6f243964c262b78dea417"},{"href":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf"}],"documentFingerprint":"d6d00c7d2da6f243964c262b78dea417"},"uri":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","target":[{"source":"vault:/Bible/attachments/C.S.Lewis_%E8%A9%A9%E7%AF%87%E6%93%B7%E6%80%9D.pdf","selector":[{"type":"TextPositionSelector","start":14667,"end":14685},{"type":"TextQuoteSelector","exact":"他們並非能超越試探，乃是不配受試探。","prefix":"對的無害性，便給予耽於官覺享受、只知營謀細利的人過高的評價。  ","suffix":"   如果我從未受試探，甚至從未想過連自己也會受試探去賭博，這並"}]}]}
+>```
+>%%
+>*%%PREFIX%%對的無害性，便給予耽於官覺享受、只知營謀細利的人過高的評價。%%HIGHLIGHT%% ==他們並非能超越試探，乃是不配受試探。== %%POSTFIX%%如果我從未受試探，甚至從未想過連自己也會受試探去賭博，這並*
+>%%LINK%%[[#^h4z6gg30rop|show annotation]]
+>%%COMMENT%%
+>太兇了吧魯師
+>%%TAGS%%
+>
+^h4z6gg30rop
