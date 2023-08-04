@@ -265,3 +265,17 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^77huvcfp3yr
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-04T03:59:36.659Z","text":"這段是奧古斯丁自己的想像嗎，因為如果翻譯成在「諸神」面前感覺就不會有這段了，雖然推論很精彩","updated":"2023-08-04T03:59:36.659Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3522747,"end":3522748},{"type":"TextQuoteSelector","exact":".","prefix":" Church above, in all the Angels","suffix":"But the God of Angels came down "}]}]}
+>```
+>%%
+>*%%PREFIX%%Church above, in all the Angels%%HIGHLIGHT%% ==.== %%POSTFIX%%But the God of Angels came down*
+>%%LINK%%[[#^lnhpekavh09|show annotation]]
+>%%COMMENT%%
+>這段是奧古斯丁自己的想像嗎，因為如果翻譯成在「諸神」面前感覺就不會有這段了，雖然推論很精彩
+>%%TAGS%%
+>
+^lnhpekavh09
