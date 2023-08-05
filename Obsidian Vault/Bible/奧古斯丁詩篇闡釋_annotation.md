@@ -512,3 +512,18 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^38n7yx663pu
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-05T03:03:14.861Z","text":"我在苦難裡，祢會救我，這是真的；但這也意味著，我必須在苦難裡，我才能遇見祢；我必須面對苦難，才能讓祢以苦難將我的生命更新。\n到目前為止最有感覺的","updated":"2023-08-05T03:03:14.861Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3530470,"end":3530538},{"type":"TextQuoteSelector","exact":" Thou wilt not revive me, unless I walk in the midst of tribulation.","prefix":"I walk,” etc.;that is, otherwise","suffix":"11. “Thou hast stretched forth T"}]}]}
+>```
+>%%
+>*%%PREFIX%%I walk,” etc.;that is, otherwise%%HIGHLIGHT%% ==Thou wilt not revive me, unless I walk in the midst of tribulation.== %%POSTFIX%%11. “Thou hast stretched forth T*
+>%%LINK%%[[#^u5vhnlqne9|show annotation]]
+>%%COMMENT%%
+>我在苦難裡，祢會救我，這是真的；但這也意味著，我必須在苦難裡，我才能遇見祢；我必須面對苦難，才能讓祢以苦難將我的生命更新。
+>到目前為止最有感覺的
+>%%TAGS%%
+>
+^u5vhnlqne9
