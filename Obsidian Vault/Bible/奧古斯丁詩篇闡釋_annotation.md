@@ -469,3 +469,18 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^z5pxmd650pn
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-05T02:56:34.990Z","text":"詩篇34:18\n耶和華靠近傷心的人，拯救靈性痛悔的人。","updated":"2023-08-05T02:56:34.990Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3529454,"end":3529510},{"type":"TextQuoteSelector","exact":"The Lord is nigh unto them that are of a contrite heart.","prefix":". But whatdoth the lowly gain? “","suffix":"” Let the proud thenlift himself"}]}]}
+>```
+>%%
+>*%%PREFIX%%. But whatdoth the lowly gain? “%%HIGHLIGHT%% ==The Lord is nigh unto them that are of a contrite heart.== %%POSTFIX%%” Let the proud thenlift himself*
+>%%LINK%%[[#^m824w4lq8gi|show annotation]]
+>%%COMMENT%%
+>詩篇34:18
+>耶和華靠近傷心的人，拯救靈性痛悔的人。
+>%%TAGS%%
+>
+^m824w4lq8gi
