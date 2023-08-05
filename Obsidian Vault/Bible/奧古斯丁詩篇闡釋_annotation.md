@@ -340,3 +340,19 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^rw28sge7ma
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-05T02:04:42.875Z","text":"我還是沒get到\n看來重點是求天上的事，那他的意思究竟是因為所求的事所以祂\"quickly\"？還是因為所求的是天上的所以他自己不著急要神quickli? 還是表達迫切、「我想快點回天家」？\n中文還是沒有這個字？","updated":"2023-08-05T02:04:42.875Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3524868,"end":3524927},{"type":"TextQuoteSelector","exact":"SinceThou hast taught me what to seek, grant what I seek...","prefix":"k: therefore “quickly hear me.” ","suffix":".6. Let us see then what he seek"}]}]}
+>```
+>%%
+>*%%PREFIX%%k: therefore “quickly hear me.”%%HIGHLIGHT%% ==SinceThou hast taught me what to seek, grant what I seek...== %%POSTFIX%%.6. Let us see then what he seek*
+>%%LINK%%[[#^96f86hwxute|show annotation]]
+>%%COMMENT%%
+>我還是沒get到
+>看來重點是求天上的事，那他的意思究竟是因為所求的事所以祂"quickly"？還是因為所求的是天上的所以他自己不著急要神quickli? 還是表達迫切、「我想快點回天家」？
+>中文還是沒有這個字？
+>%%TAGS%%
+>
+^96f86hwxute
