@@ -399,3 +399,17 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^o8duwi8fvfh
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-05T02:20:46.078Z","text":"嗯，非常跳躍式的解法，完全看不出來怎麼扯到基甸的","updated":"2023-08-05T02:20:46.078Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3527059,"end":3527132},{"type":"TextQuoteSelector","exact":"it was manifested, no longer hidden. Christ alone is the sweetness of dew","prefix":" to  bemanifested in the floor; ","suffix":":Him alone thou recognisest not "}]}]}
+>```
+>%%
+>*%%PREFIX%%to  bemanifested in the floor;%%HIGHLIGHT%% ==it was manifested, no longer hidden. Christ alone is the sweetness of dew== %%POSTFIX%%:Him alone thou recognisest not*
+>%%LINK%%[[#^muqb06mihu|show annotation]]
+>%%COMMENT%%
+>嗯，非常跳躍式的解法，完全看不出來怎麼扯到基甸的
+>%%TAGS%%
+>
+^muqb06mihu
