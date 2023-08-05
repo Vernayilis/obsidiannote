@@ -413,3 +413,17 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^muqb06mihu
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-05T02:24:33.609Z","text":"為啥啊，為啥要講基甸，好在意","updated":"2023-08-05T02:24:33.609Z","document":{"title":""},"references":["muqb06mihu"],"target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== %%POSTFIX%%*
+>%%LINK%%[[#^bi811fmk8eg|show annotation]]
+>%%COMMENT%%
+>為啥啊，為啥要講基甸，好在意
+>%%TAGS%%
+>
+^bi811fmk8eg
