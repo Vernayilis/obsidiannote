@@ -498,3 +498,17 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^y8wa4i7yq3f
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-05T03:00:52.570Z","text":"我都看哭了我，這其實很像我平常會做的發散自由聯想，救我脫離苦難，沒有祢的一生都是苦難，直到祢來。","updated":"2023-08-05T03:00:52.570Z","document":{"title":""},"references":["y8wa4i7yq3f"],"target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== %%POSTFIX%%*
+>%%LINK%%[[#^38n7yx663pu|show annotation]]
+>%%COMMENT%%
+>我都看哭了我，這其實很像我平常會做的發散自由聯想，救我脫離苦難，沒有祢的一生都是苦難，直到祢來。
+>%%TAGS%%
+>
+^38n7yx663pu
