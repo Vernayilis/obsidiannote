@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Literture 文獻筆記/第六漫步.md",
+                "file": "02_Literture 文獻筆記/盧梭.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db754b003095186f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Literture 文獻筆記/第七漫步.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Literture 文獻筆記/第六漫步.md",
+                "file": "02_Literture 文獻筆記/第七漫步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Literture 文獻筆記/第六漫步.md",
+                "file": "02_Literture 文獻筆記/第七漫步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Literture 文獻筆記/第六漫步.md"
+                "file": "02_Literture 文獻筆記/第七漫步.md"
               }
             }
           }
@@ -197,14 +210,14 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "c003573c870c721d",
+  "active": "db754b003095186f",
   "lastOpenFiles": [
-    "02_Literture 文獻筆記/漫步.md",
+    "02_Literture 文獻筆記/第五漫步.md",
     "02_Literture 文獻筆記/盧梭.md",
+    "02_Literture 文獻筆記/第六漫步.md",
+    "02_Literture 文獻筆記/漫步.md",
     "02_Literture 文獻筆記/第七漫步.md",
     "02_Literture 文獻筆記/第三、第六漫步.md",
-    "02_Literture 文獻筆記/第五漫步.md",
-    "02_Literture 文獻筆記/第六漫步.md",
     "Dialy/靈修日記/2023-08-04.md",
     "Bible/奧古斯丁詩篇闡釋_annotation.md",
     "03_Reading/詩篇擷思_隨筆.md",
