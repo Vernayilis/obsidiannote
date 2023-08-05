@@ -135,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Literture 文獻筆記/第七漫步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Literture 文獻筆記/第七漫步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02_Literture 文獻筆記/第七漫步.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -210,13 +206,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "db754b003095186f",
+  "active": "1a5ce51804c847b9",
   "lastOpenFiles": [
+    "02_Literture 文獻筆記/第七漫步.md",
     "02_Literture 文獻筆記/第五漫步.md",
     "02_Literture 文獻筆記/盧梭.md",
     "02_Literture 文獻筆記/第六漫步.md",
     "02_Literture 文獻筆記/漫步.md",
-    "02_Literture 文獻筆記/第七漫步.md",
     "02_Literture 文獻筆記/第三、第六漫步.md",
     "Dialy/靈修日記/2023-08-04.md",
     "Bible/奧古斯丁詩篇闡釋_annotation.md",
