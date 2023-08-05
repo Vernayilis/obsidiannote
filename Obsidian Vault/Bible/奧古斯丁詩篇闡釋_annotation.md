@@ -325,3 +325,18 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^w3gbzcu5uva
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-05T01:59:30.152Z","text":"賽58:9\n你呼求，他必說，我在這裡","updated":"2023-08-05T01:59:30.152Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3524354,"end":3524422},{"type":"TextQuoteSelector","exact":" “While  yet  thou  art  speaking  I  will  say,  Lo,  here  I  am.”","prefix":"y”?  Because  Thou  hast  said, ","suffix":"5711Wherefore, “quickly”? Becaus"}]}]}
+>```
+>%%
+>*%%PREFIX%%y”?  Because  Thou  hast  said,%%HIGHLIGHT%% ==“While  yet  thou  art  speaking  I  will  say,  Lo,  here  I  am.”== %%POSTFIX%%5711Wherefore, “quickly”? Becaus*
+>%%LINK%%[[#^rw28sge7ma|show annotation]]
+>%%COMMENT%%
+>賽58:9
+>你呼求，他必說，我在這裡
+>%%TAGS%%
+>
+^rw28sge7ma

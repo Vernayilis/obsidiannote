@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
+                "file": "Dialy/靈修日記/2023-08-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
+                "file": "Dialy/靈修日記/2023-08-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,12 +138,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md"
+                "file": "Dialy/靈修日記/2023-08-04.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "36137b9098c4db20",
@@ -173,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 558.5,
-    "collapsed": true
+    "width": 558.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,14 +184,14 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "c003573c870c721d",
+  "active": "6f872710cc2a9707",
   "lastOpenFiles": [
+    "Bible/奧古斯丁詩篇闡釋_annotation.md",
     "03_Reading/詩篇擷思_隨筆.md",
     "Dialy/靈修日記/2023-08-04.md",
     "Bible/詩篇擷思_annotation.md",
     "X_Index 索引/2023.md",
     "03_Reading",
-    "Bible/奧古斯丁詩篇闡釋_annotation.md",
     "Dialy/靈修日記/2023-03-15.md",
     "Dialy/靈修日記/2023-08-03.md",
     "Bible/詩篇135.md",
