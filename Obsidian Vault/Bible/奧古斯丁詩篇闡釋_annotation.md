@@ -612,3 +612,20 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^30fqgubhlet
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-05T03:42:10.629Z","text":"你們得救是本乎恩，也因著信；這並不是出於自己，乃是神所賜的；\n也不是出於行為，免得有人自誇。\n我們原是他的工作，在基督耶穌裡造成的，為要叫我們行善，就是神所預備叫我們行的。\n弗2:8-10","updated":"2023-08-05T03:42:10.629Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3533502,"end":3533506},{"type":"TextQuoteSelector","exact":"5717","prefix":"so theyare more Thine than mine.","suffix":" Therefore whether in regard tha"}]}]}
+>```
+>%%
+>*%%PREFIX%%so theyare more Thine than mine.%%HIGHLIGHT%% ==5717== %%POSTFIX%%Therefore whether in regard tha*
+>%%LINK%%[[#^n117100gn6|show annotation]]
+>%%COMMENT%%
+>你們得救是本乎恩，也因著信；這並不是出於自己，乃是神所賜的；
+>也不是出於行為，免得有人自誇。
+>我們原是他的工作，在基督耶穌裡造成的，為要叫我們行善，就是神所預備叫我們行的。
+>弗2:8-10
+>%%TAGS%%
+>
+^n117100gn6
