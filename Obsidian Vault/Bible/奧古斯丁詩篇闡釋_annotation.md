@@ -294,3 +294,19 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^5woeayop3d2
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-05T01:43:03.426Z","text":"你為你自己所造的，我看不太懂\n這殿是我們自己，但神在天使之中（根據七十士的上一節），他從天上來到地上，「有天使伺候他」，但他說他來是要服事人，為人死了。講完這段所以聖殿在哪裡？？？\n不求甚解","updated":"2023-08-05T01:43:03.426Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3523050,"end":3523124},{"type":"TextQuoteSelector","exact":" not the temple made with hands, but that which Thou hast made for Thyself","prefix":"oward  Thy  holyTemple;” I mean,","suffix":".4. “And I will confess to Thy N"}]}]}
+>```
+>%%
+>*%%PREFIX%%oward  Thy  holyTemple;” I mean,%%HIGHLIGHT%% ==not the temple made with hands, but that which Thou hast made for Thyself== %%POSTFIX%%.4. “And I will confess to Thy N*
+>%%LINK%%[[#^p4a9ot3xhm|show annotation]]
+>%%COMMENT%%
+>你為你自己所造的，我看不太懂
+>這殿是我們自己，但神在天使之中（根據七十士的上一節），他從天上來到地上，「有天使伺候他」，但他說他來是要服事人，為人死了。講完這段所以聖殿在哪裡？？？
+>不求甚解
+>%%TAGS%%
+>
+^p4a9ot3xhm
