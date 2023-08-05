@@ -527,3 +527,18 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^u5vhnlqne9
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-05T03:10:25.150Z","text":"親愛的弟兄，不要自己申冤，寧可讓步，聽憑主怒；因為經上記著：「主說：『伸冤在我，我必報應。』」\n羅12:19","updated":"2023-08-05T03:10:25.150Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3531280,"end":3531441},{"type":"TextQuoteSelector","exact":"“Dearly beloved, avengenot yourselves,” saith the Apostle, “but rather give place unto wrath; for it is written, Vengeanceis Mine, I will repay, saith the Lord.”","prefix":"alt recompense what I cannot....","suffix":"5714 There is here another sense"}]}]}
+>```
+>%%
+>*%%PREFIX%%alt recompense what I cannot....%%HIGHLIGHT%% ==“Dearly beloved, avengenot yourselves,” saith the Apostle, “but rather give place unto wrath; for it is written, Vengeanceis Mine, I will repay, saith the Lord.”== %%POSTFIX%%5714 There is here another sense*
+>%%LINK%%[[#^fw0n44in21j|show annotation]]
+>%%COMMENT%%
+>親愛的弟兄，不要自己申冤，寧可讓步，聽憑主怒；因為經上記著：「主說：『伸冤在我，我必報應。』」
+>羅12:19
+>%%TAGS%%
+>
+^fw0n44in21j
