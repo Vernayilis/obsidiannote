@@ -103,7 +103,7 @@
       {
         "id": "b2cb4851ffd7fcbc",
         "type": "tabs",
-        "dimension": 38.10679611650485,
+        "dimension": 72.33009708737865,
         "children": [
           {
             "id": "6f872710cc2a9707",
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Reading/詩篇擷思_隨筆.md",
+                "file": "02_Literture 文獻筆記/第七漫步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Reading/詩篇擷思_隨筆.md",
+                "file": "02_Literture 文獻筆記/第七漫步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Reading/詩篇擷思_隨筆.md"
+                "file": "02_Literture 文獻筆記/第七漫步.md"
               }
             }
           }
@@ -186,7 +186,7 @@
       {
         "id": "36137b9098c4db20",
         "type": "tabs",
-        "dimension": 61.89320388349514,
+        "dimension": 27.669902912621357,
         "children": [
           {
             "id": "1a5ce51804c847b9",
@@ -223,10 +223,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "3790a6699cc8f3e3",
+  "active": "db754b003095186f",
   "lastOpenFiles": [
-    "02_Literture 文獻筆記/第七漫步.md",
     "03_Reading/詩篇擷思_隨筆.md",
+    "02_Literture 文獻筆記/第七漫步.md",
     "02_Literture 文獻筆記/第五漫步.md",
     "02_Literture 文獻筆記/盧梭.md",
     "02_Literture 文獻筆記/第六漫步.md",
