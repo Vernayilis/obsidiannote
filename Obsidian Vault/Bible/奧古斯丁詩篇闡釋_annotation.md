@@ -427,3 +427,17 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^bi811fmk8eg
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-05T02:28:04.065Z","text":"我想到小時候跟家人去爬山，我跟亞各下山看到一個里程碑就唱一段冰雪奇緣，快樂","updated":"2023-08-05T02:28:04.065Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3527658,"end":3527744},{"type":"TextQuoteSelector","exact":"We know travellers that sing; they sing, and hasten to reach the end of their journey.","prefix":" them love, and they shallsing. ","suffix":" Thereare evil songs, such as be"}]}]}
+>```
+>%%
+>*%%PREFIX%%them love, and they shallsing.%%HIGHLIGHT%% ==We know travellers that sing; they sing, and hasten to reach the end of their journey.== %%POSTFIX%%Thereare evil songs, such as be*
+>%%LINK%%[[#^powj9t4sras|show annotation]]
+>%%COMMENT%%
+>我想到小時候跟家人去爬山，我跟亞各下山看到一個里程碑就唱一段冰雪奇緣，快樂
+>%%TAGS%%
+>
+^powj9t4sras
