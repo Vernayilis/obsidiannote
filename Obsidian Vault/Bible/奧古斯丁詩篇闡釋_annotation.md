@@ -484,3 +484,17 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^m824w4lq8gi
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-05T02:59:57.406Z","updated":"2023-08-05T02:59:57.406Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3529922,"end":3530218},{"type":"TextQuoteSelector","exact":"Love the other life,and thou shalt see that this life is tribulation, whatever prosperity it shine with, whatever delightsit abound and overflow with; since not yet have we that joy most safe and free from all temptation,635which God reserveth for us in the end, without doubt it is tribulation. ","prefix":"reeth thee, He reviveth thee....","suffix":"Let us understand then whattribu"}]}]}
+>```
+>%%
+>*%%PREFIX%%reeth thee, He reviveth thee....%%HIGHLIGHT%% ==Love the other life,and thou shalt see that this life is tribulation, whatever prosperity it shine with, whatever delightsit abound and overflow with; since not yet have we that joy most safe and free from all temptation,635which God reserveth for us in the end, without doubt it is tribulation.== %%POSTFIX%%Let us understand then whattribu*
+>%%LINK%%[[#^y8wa4i7yq3f|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^y8wa4i7yq3f
