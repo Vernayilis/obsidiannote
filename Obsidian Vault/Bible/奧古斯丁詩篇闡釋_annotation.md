@@ -556,3 +556,17 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^1h29anxe6bs
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-05T03:21:39.880Z","updated":"2023-08-05T03:21:39.880Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3532266,"end":3532436},{"type":"TextQuoteSelector","exact":"The first that riseth from the sea, is the First-begotten from thedead. In His mouth we find two didrachmas, that is, four drachmas: in His mouth we find the fourGospels.","prefix":"ake, and give for Me and thee.” ","suffix":" By those four drachmas we are f"}]}]}
+>```
+>%%
+>*%%PREFIX%%ake, and give for Me and thee.”%%HIGHLIGHT%% ==The first that riseth from the sea, is the First-begotten from thedead. In His mouth we find two didrachmas, that is, four drachmas: in His mouth we find the fourGospels.== %%POSTFIX%%By those four drachmas we are f*
+>%%LINK%%[[#^2tx5hqp7h8l|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^2tx5hqp7h8l
