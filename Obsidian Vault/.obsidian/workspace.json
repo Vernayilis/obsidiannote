@@ -118,6 +118,18 @@
             }
           },
           {
+            "id": "3790a6699cc8f3e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Reading/詩篇擷思_隨筆.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6a9a53e52eb5cf45",
             "type": "leaf",
             "state": {
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Literture 文獻筆記/第七漫步.md",
+                "file": "03_Reading/詩篇擷思_隨筆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Literture 文獻筆記/第七漫步.md",
+                "file": "03_Reading/詩篇擷思_隨筆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,11 +176,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Literture 文獻筆記/第七漫步.md"
+                "file": "03_Reading/詩篇擷思_隨筆.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "36137b9098c4db20",
@@ -198,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,10 +223,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "db754b003095186f",
+  "active": "3790a6699cc8f3e3",
   "lastOpenFiles": [
-    "03_Reading/詩篇擷思_隨筆.md",
     "02_Literture 文獻筆記/第七漫步.md",
+    "03_Reading/詩篇擷思_隨筆.md",
     "02_Literture 文獻筆記/第五漫步.md",
     "02_Literture 文獻筆記/盧梭.md",
     "02_Literture 文獻筆記/第六漫步.md",
