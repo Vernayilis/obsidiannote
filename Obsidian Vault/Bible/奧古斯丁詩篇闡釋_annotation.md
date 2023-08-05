@@ -370,3 +370,18 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^xcosfkztpm
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-05T02:17:03.470Z","text":"羅3:1-2\n猶太人有什麼長處...第一是神的聖言交託他們","updated":"2023-08-05T02:17:03.470Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3526611,"end":3526721},{"type":"TextQuoteSelector","exact":"What advantage hath theJew? Much every way; chiefly because that unto them were committed the oracles of God.”","prefix":" the Apostle praiseth, saying, “","suffix":" Thesewere the words of God.5712"}]}]}
+>```
+>%%
+>*%%PREFIX%%the Apostle praiseth, saying, “%%HIGHLIGHT%% ==What advantage hath theJew? Much every way; chiefly because that unto them were committed the oracles of God.”== %%POSTFIX%%Thesewere the words of God.5712*
+>%%LINK%%[[#^4bc5zvim0b5|show annotation]]
+>%%COMMENT%%
+>羅3:1-2
+>猶太人有什麼長處...第一是神的聖言交託他們
+>%%TAGS%%
+>
+^4bc5zvim0b5
