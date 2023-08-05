@@ -441,3 +441,17 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^powj9t4sras
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-05T02:32:12.422Z","text":"哇，「地上的君王」相對神就是低的人，祂看顧低微的人，但是君王在意這點嗎？酷","updated":"2023-08-05T02:32:12.422Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3528294,"end":3528347},{"type":"TextQuoteSelector","exact":" Do kings then desire that He have respect unto them?","prefix":"espect unto the lowly” (ver. 6).","suffix":" Letthem be humble. What then? i"}]}]}
+>```
+>%%
+>*%%PREFIX%%espect unto the lowly” (ver. 6).%%HIGHLIGHT%% ==Do kings then desire that He have respect unto them?== %%POSTFIX%%Letthem be humble. What then? i*
+>%%LINK%%[[#^aavl3gdfq4o|show annotation]]
+>%%COMMENT%%
+>哇，「地上的君王」相對神就是低的人，祂看顧低微的人，但是君王在意這點嗎？酷
+>%%TAGS%%
+>
+^aavl3gdfq4o
