@@ -385,3 +385,17 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^4bc5zvim0b5
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-05T02:18:35.232Z","updated":"2023-08-05T02:18:35.232Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3526867,"end":3526878},{"type":"TextQuoteSelector","exact":"sacraments,","prefix":"e world, which had the grace of ","suffix":" not indeed openly manifested, b"}]}]}
+>```
+>%%
+>*%%PREFIX%%e world, which had the grace of%%HIGHLIGHT%% ==sacraments,== %%POSTFIX%%not indeed openly manifested, b*
+>%%LINK%%[[#^o8duwi8fvfh|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^o8duwi8fvfh
