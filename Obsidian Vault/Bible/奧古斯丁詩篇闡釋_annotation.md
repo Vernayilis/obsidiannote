@@ -542,3 +542,17 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^fw0n44in21j
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-05T03:17:55.264Z","updated":"2023-08-05T03:17:55.264Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3531822,"end":3531831},{"type":"TextQuoteSelector","exact":"didrachma","prefix":"hey used to demand as tribute a ","suffix":", that is,two drachmas for one m"}]}]}
+>```
+>%%
+>*%%PREFIX%%hey used to demand as tribute a%%HIGHLIGHT%% ==didrachma== %%POSTFIX%%, that is,two drachmas for one m*
+>%%LINK%%[[#^1h29anxe6bs|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^1h29anxe6bs
