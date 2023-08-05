@@ -30,30 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1871dcabaac54a6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Reading/詩篇擷思_隨筆.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcec2b8ff4f4ee91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Literture 文獻筆記/漫步.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -106,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3ce2619606b09b86",
@@ -117,30 +94,6 @@
         "type": "tabs",
         "dimension": 72.33009708737865,
         "children": [
-          {
-            "id": "6f872710cc2a9707",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dialy/靈修日記/2023-08-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3790a6699cc8f3e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Reading/詩篇擷思_隨筆.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "6a9a53e52eb5cf45",
             "type": "leaf",
@@ -192,8 +145,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "36137b9098c4db20",
@@ -237,14 +189,14 @@
   },
   "active": "db754b003095186f",
   "lastOpenFiles": [
+    "02_Literture 文獻筆記/漫步.md",
     "03_Reading/詩篇擷思_隨筆.md",
+    "Dialy/靈修日記/2023-08-04.md",
     "02_Literture 文獻筆記/第七漫步.md",
     "02_Literture 文獻筆記/第五漫步.md",
     "02_Literture 文獻筆記/盧梭.md",
     "02_Literture 文獻筆記/第六漫步.md",
-    "02_Literture 文獻筆記/漫步.md",
     "02_Literture 文獻筆記/第三、第六漫步.md",
-    "Dialy/靈修日記/2023-08-04.md",
     "Bible/奧古斯丁詩篇闡釋_annotation.md",
     "Bible/詩篇擷思_annotation.md",
     "X_Index 索引/2023.md",
