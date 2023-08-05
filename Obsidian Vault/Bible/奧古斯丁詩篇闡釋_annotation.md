@@ -314,13 +314,14 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 
 >%%
 >```annotation-json
->{"created":"2023-08-05T01:54:27.423Z","text":"這句我連中文都看不懂ㄌ笑死","updated":"2023-08-05T01:54:27.423Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3523532,"end":3523588},{"type":"TextQuoteSelector","exact":"“For Thou hast magnified Thy holy Name over everything.”","prefix":"therwhereby we can come to Him. ","suffix":" Whatsort of thanksgiving is thi"}]}]}
+>{"created":"2023-08-05T01:54:27.423Z","text":"這句我連中文都看不懂ㄌ笑死\n整句意思完全不一樣～","updated":"2023-08-05T01:54:27.423Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3523532,"end":3523588},{"type":"TextQuoteSelector","exact":"“For Thou hast magnified Thy holy Name over everything.”","prefix":"therwhereby we can come to Him. ","suffix":" Whatsort of thanksgiving is thi"}]}]}
 >```
 >%%
 >*%%PREFIX%%therwhereby we can come to Him.%%HIGHLIGHT%% ==“For Thou hast magnified Thy holy Name over everything.”== %%POSTFIX%%Whatsort of thanksgiving is thi*
 >%%LINK%%[[#^w3gbzcu5uva|show annotation]]
 >%%COMMENT%%
 >這句我連中文都看不懂ㄌ笑死
+>整句意思完全不一樣～
 >%%TAGS%%
 >
 ^w3gbzcu5uva
