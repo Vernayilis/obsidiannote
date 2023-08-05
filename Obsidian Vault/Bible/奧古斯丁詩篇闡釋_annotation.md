@@ -279,3 +279,18 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^lnhpekavh09
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-05T01:40:55.248Z","text":"正如人子來，不是要受人的服事，乃是要服事人\n太20:28","updated":"2023-08-05T01:40:55.248Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3522875,"end":3522939},{"type":"TextQuoteSelector","exact":"“I came not,” saith He, “to be ministered unto, but tominister.”","prefix":"while He ministered to us; for, ","suffix":"5708...The  Lord  of  Angels  di"}]}]}
+>```
+>%%
+>*%%PREFIX%%while He ministered to us; for,%%HIGHLIGHT%% ==“I came not,” saith He, “to be ministered unto, but tominister.”== %%POSTFIX%%5708...The  Lord  of  Angels  di*
+>%%LINK%%[[#^5woeayop3d2|show annotation]]
+>%%COMMENT%%
+>正如人子來，不是要受人的服事，乃是要服事人
+>太20:28
+>%%TAGS%%
+>
+^5woeayop3d2
