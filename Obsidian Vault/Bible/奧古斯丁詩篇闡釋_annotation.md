@@ -455,3 +455,17 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^aavl3gdfq4o
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-05T02:34:05.462Z","text":"啊，因為奧古斯丁自己是王。原來如此，會用這個角度想","updated":"2023-08-05T02:34:05.462Z","document":{"title":""},"references":["aavl3gdfq4o"],"target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== %%POSTFIX%%*
+>%%LINK%%[[#^z5pxmd650pn|show annotation]]
+>%%COMMENT%%
+>啊，因為奧古斯丁自己是王。原來如此，會用這個角度想
+>%%TAGS%%
+>
+^z5pxmd650pn
