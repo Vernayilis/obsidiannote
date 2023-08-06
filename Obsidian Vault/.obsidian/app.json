@@ -1,5 +1,6 @@
 {
   "newFileLocation": "current",
   "newFileFolderPath": "Dialy/靈修日記",
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true
 }
