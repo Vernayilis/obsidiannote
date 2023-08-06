@@ -6,7 +6,6 @@
       {
         "id": "f9604c5c6203dd5c",
         "type": "tabs",
-        "dimension": 66.96113074204946,
         "children": [
           {
             "id": "c003573c870c721d",
@@ -45,26 +44,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "1e3f5d14a6fec0d4",
-        "type": "tabs",
-        "dimension": 33.03886925795053,
-        "children": [
-          {
-            "id": "93c9e6964b750c27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dialy/靈修日記/2023-08-04.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -124,8 +103,21 @@
       {
         "id": "b2cb4851ffd7fcbc",
         "type": "tabs",
-        "dimension": 33.37378640776699,
+        "dimension": 52.42718446601942,
         "children": [
+          {
+            "id": "93c9e6964b750c27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dialy/靈修日記/2023-08-04.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
           {
             "id": "6a9a53e52eb5cf45",
             "type": "leaf",
@@ -182,7 +174,7 @@
       {
         "id": "36137b9098c4db20",
         "type": "tabs",
-        "dimension": 66.62621359223301,
+        "dimension": 47.57281553398058,
         "children": [
           {
             "id": "1a5ce51804c847b9",
@@ -221,8 +213,8 @@
   },
   "active": "93c9e6964b750c27",
   "lastOpenFiles": [
-    "Bible/奧古斯丁詩篇闡釋_annotation.md",
     "Dialy/靈修日記/2023-08-04.md",
+    "Bible/奧古斯丁詩篇闡釋_annotation.md",
     "03_Reading/詩篇擷思_隨筆.md",
     "02_Literture 文獻筆記/第七、八漫步.md",
     "Bible/詩篇擷思_annotation.md",
