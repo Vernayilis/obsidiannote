@@ -27,12 +27,23 @@
               "state": {
                 "file": "02_Literture 文獻筆記/第七、八漫步.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "3edb49144ba9ac6e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Literture 文獻筆記/第七、八漫步.md",
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Literture 文獻筆記/第七、八漫步.md",
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Literture 文獻筆記/第七、八漫步.md"
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md"
               }
             }
           }
@@ -175,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,18 +199,18 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "db754b003095186f",
+  "active": "3edb49144ba9ac6e",
   "lastOpenFiles": [
-    "03_Reading/詩篇擷思_隨筆.md",
     "02_Literture 文獻筆記/第七、八漫步.md",
+    "Bible/奧古斯丁詩篇闡釋_annotation.md",
+    "Bible/詩篇擷思_annotation.md",
+    "03_Reading/詩篇擷思_隨筆.md",
     "02_Literture 文獻筆記/盧梭.md",
     "02_Literture 文獻筆記/漫步.md",
     "Dialy/靈修日記/2023-08-04.md",
     "02_Literture 文獻筆記/第五漫步.md",
     "02_Literture 文獻筆記/第六漫步.md",
     "02_Literture 文獻筆記/第三、第六漫步.md",
-    "Bible/奧古斯丁詩篇闡釋_annotation.md",
-    "Bible/詩篇擷思_annotation.md",
     "X_Index 索引/2023.md",
     "03_Reading",
     "Dialy/靈修日記/2023-03-15.md",
