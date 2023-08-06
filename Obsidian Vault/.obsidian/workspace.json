@@ -44,6 +44,22 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "1e3f5d14a6fec0d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7be324be2127ba70",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dialy/靈修日記/2023-08-04.md",
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dialy/靈修日記/2023-08-04.md",
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dialy/靈修日記/2023-08-04.md"
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md"
               }
             }
           }
@@ -212,15 +228,15 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "93c9e6964b750c27",
+  "active": "3edb49144ba9ac6e",
   "lastOpenFiles": [
+    "Dialy/靈修日記/2023-08-04.md",
     "03_Reading/詩篇擷思_隨筆.md",
     "Bible/奧古斯丁詩篇闡釋_annotation.md",
     "02_Literture 文獻筆記/第七、八漫步.md",
     "Bible/詩篇擷思_annotation.md",
     "02_Literture 文獻筆記/盧梭.md",
     "02_Literture 文獻筆記/漫步.md",
-    "Dialy/靈修日記/2023-08-04.md",
     "02_Literture 文獻筆記/第五漫步.md",
     "02_Literture 文獻筆記/第六漫步.md",
     "02_Literture 文獻筆記/第三、第六漫步.md",
