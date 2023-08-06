@@ -6,6 +6,7 @@
       {
         "id": "f9604c5c6203dd5c",
         "type": "tabs",
+        "dimension": 66.96113074204946,
         "children": [
           {
             "id": "c003573c870c721d",
@@ -48,14 +49,18 @@
       {
         "id": "1e3f5d14a6fec0d4",
         "type": "tabs",
+        "dimension": 33.03886925795053,
         "children": [
           {
-            "id": "7be324be2127ba70",
+            "id": "93c9e6964b750c27",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md"
+                "file": "Dialy/靈修日記/2023-08-04.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -134,19 +139,6 @@
             }
           },
           {
-            "id": "93c9e6964b750c27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dialy/靈修日記/2023-08-04.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "be0d0af4b9907db5",
             "type": "leaf",
             "state": {
@@ -185,8 +177,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "36137b9098c4db20",
