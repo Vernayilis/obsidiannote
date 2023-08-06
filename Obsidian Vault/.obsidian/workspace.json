@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
+                "file": "Dialy/靈修日記/2023-08-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
+                "file": "Dialy/靈修日記/2023-08-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md"
+                "file": "Dialy/靈修日記/2023-08-04.md"
               }
             }
           }
@@ -219,11 +219,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "3edb49144ba9ac6e",
+  "active": "93c9e6964b750c27",
   "lastOpenFiles": [
+    "Bible/奧古斯丁詩篇闡釋_annotation.md",
     "Dialy/靈修日記/2023-08-04.md",
     "03_Reading/詩篇擷思_隨筆.md",
-    "Bible/奧古斯丁詩篇闡釋_annotation.md",
     "02_Literture 文獻筆記/第七、八漫步.md",
     "Bible/詩篇擷思_annotation.md",
     "02_Literture 文獻筆記/盧梭.md",
