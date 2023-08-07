@@ -671,3 +671,17 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^nklganwja8s
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-07T16:25:51.764Z","text":"還滿美的。讀到這篇的人此刻與詩人共感，與他的心聲同在。","updated":"2023-08-07T16:25:51.764Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3564132,"end":3564253},{"type":"TextQuoteSelector","exact":"hear thevoice of His Body; be in His Body. Let the voice which thou hast heard be thine, and pray, and saywhat followeth.","prefix":" is chanted “to David Himself;” ","suffix":"4. “Deliver me, O Lord, from the"}]}]}
+>```
+>%%
+>*%%PREFIX%%is chanted “to David Himself;”%%HIGHLIGHT%% ==hear thevoice of His Body; be in His Body. Let the voice which thou hast heard be thine, and pray, and saywhat followeth.== %%POSTFIX%%4. “Deliver me, O Lord, from the*
+>%%LINK%%[[#^cfnqgrmb7v5|show annotation]]
+>%%COMMENT%%
+>還滿美的。讀到這篇的人此刻與詩人共感，與他的心聲同在。
+>%%TAGS%%
+>
+^cfnqgrmb7v5
