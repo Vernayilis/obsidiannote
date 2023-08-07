@@ -32,16 +32,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3edb49144ba9ac6e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md"
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -137,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dialy/靈修日記/2023-08-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dialy/靈修日記/2023-08-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dialy/靈修日記/2023-08-07.md"
+              }
             }
           }
         ]
@@ -177,8 +171,13 @@
             "id": "1a5ce51804c847b9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dialy/靈修日記/2023-08-07.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -210,6 +209,7 @@
   },
   "active": "1a5ce51804c847b9",
   "lastOpenFiles": [
+    "Dialy/靈修日記/2023-08-07.md",
     "02_Literture 文獻筆記/第九漫步.md",
     "詩篇.md",
     "02_Literture 文獻筆記/第七、八漫步.md",
@@ -246,7 +246,6 @@
     "Dialy/靈修日記/2023-07-25.md",
     "Dialy/靈修日記/2023-08-01.md",
     "Dialy/靈修日記/2023-07-31.md",
-    "Dialy/靈修日記/2023-07-14.md",
     "未命名.canvas"
   ]
 }
