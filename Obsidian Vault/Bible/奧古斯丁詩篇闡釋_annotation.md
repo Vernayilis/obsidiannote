@@ -657,3 +657,17 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^vfr87t9m9f
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-07T16:23:30.329Z","text":"飢渴慕義的人","updated":"2023-08-07T16:23:30.329Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3563437,"end":3563481},{"type":"TextQuoteSelector","exact":"hungering and thirsting after righteousness,","prefix":"ed and want, not yetsatisfied, “","suffix":"”5745 for whom a certain fulness"}]}]}
+>```
+>%%
+>*%%PREFIX%%ed and want, not yetsatisfied, “%%HIGHLIGHT%% ==hungering and thirsting after righteousness,== %%POSTFIX%%”5745 for whom a certain fulness*
+>%%LINK%%[[#^nklganwja8s|show annotation]]
+>%%COMMENT%%
+>飢渴慕義的人
+>%%TAGS%%
+>
+^nklganwja8s
