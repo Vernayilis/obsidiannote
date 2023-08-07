@@ -11,12 +11,9 @@
             "id": "de21fc3dc74f1658",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "02_Literture 文獻筆記/第九漫步.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md"
               }
             }
           }
@@ -70,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3ce2619606b09b86",
@@ -113,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Literture 文獻筆記/第九漫步.md",
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Literture 文獻筆記/第九漫步.md",
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Literture 文獻筆記/第九漫步.md"
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md"
               }
             }
           }
@@ -181,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 529.5
+    "width": 482.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,8 +193,8 @@
   },
   "active": "de21fc3dc74f1658",
   "lastOpenFiles": [
-    "Dialy/靈修日記/2023-08-07.md",
     "02_Literture 文獻筆記/第九漫步.md",
+    "Dialy/靈修日記/2023-08-07.md",
     "詩篇.md",
     "02_Literture 文獻筆記/第七、八漫步.md",
     "02_Literture 文獻筆記/第五漫步.md",
