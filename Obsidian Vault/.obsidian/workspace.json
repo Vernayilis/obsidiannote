@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Literture 文獻筆記/第九漫步.md",
+                "file": "02_Literture 文獻筆記/盧梭.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Literture 文獻筆記/第九漫步.md",
+                "file": "02_Literture 文獻筆記/盧梭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Literture 文獻筆記/第九漫步.md",
+                "file": "02_Literture 文獻筆記/盧梭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Literture 文獻筆記/第九漫步.md"
+                "file": "02_Literture 文獻筆記/盧梭.md"
               }
             }
           }
@@ -198,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 529.5,
-    "collapsed": true
+    "width": 529.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,6 +212,7 @@
   },
   "active": "de21fc3dc74f1658",
   "lastOpenFiles": [
+    "02_Literture 文獻筆記/漫步.md",
     "02_Literture 文獻筆記/盧梭.md",
     "02_Literture 文獻筆記/第九漫步.md",
     "02_Literture 文獻筆記/第七、八漫步.md",
@@ -224,7 +224,6 @@
     "Dialy/靈修日記/2023-08-04.md",
     "03_Reading/詩篇擷思_隨筆.md",
     "Bible/詩篇擷思_annotation.md",
-    "02_Literture 文獻筆記/漫步.md",
     "02_Literture 文獻筆記/第五漫步.md",
     "02_Literture 文獻筆記/第六漫步.md",
     "02_Literture 文獻筆記/第三、第六漫步.md",
