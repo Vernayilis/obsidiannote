@@ -699,3 +699,17 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^vn66fts1opl
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-07T16:32:16.549Z","updated":"2023-08-07T16:32:16.549Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3564608,"end":3564808},{"type":"TextQuoteSelector","exact":"let  us  pray  not  only  against  darkness,  that  is,  againstsinners, whom still the devil possesseth, but also against their prince, the devil himself, who workethin the children of disobedience. ","prefix":"lves,  but  in  the  Lord,5748  ","suffix":"“Deliver me from the unrighteous"}]}]}
+>```
+>%%
+>*%%PREFIX%%lves,  but  in  the  Lord,5748%%HIGHLIGHT%% ==let  us  pray  not  only  against  darkness,  that  is,  againstsinners, whom still the devil possesseth, but also against their prince, the devil himself, who workethin the children of disobedience.== %%POSTFIX%%“Deliver me from the unrighteous*
+>%%LINK%%[[#^ygzpvx7x2i|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ygzpvx7x2i
