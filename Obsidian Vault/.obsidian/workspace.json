@@ -15,6 +15,7 @@
               "state": {
                 "file": "02_Literture 文獻筆記/盧梭.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -125,6 +126,7 @@
               "state": {
                 "file": "03_Reading/詩篇擷思_隨筆.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
