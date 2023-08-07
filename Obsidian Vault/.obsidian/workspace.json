@@ -43,7 +43,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md"
+              }
             }
           }
         ]
@@ -195,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 529.5
+    "width": 529.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,7 +212,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "1a5ce51804c847b9",
+  "active": "3edb49144ba9ac6e",
   "lastOpenFiles": [
     "02_Literture 文獻筆記/第七、八漫步.md",
     "Bible/奧古斯丁詩篇闡釋_annotation.md",
