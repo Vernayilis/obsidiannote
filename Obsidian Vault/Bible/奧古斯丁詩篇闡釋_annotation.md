@@ -713,3 +713,17 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^ygzpvx7x2i
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-07T16:39:39.146Z","text":"滿好的提醒，不要忘記求助於神。","updated":"2023-08-07T16:39:39.146Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3566271,"end":3566456},{"type":"TextQuoteSelector","exact":"But since they cannot love you, and since theywho hate you must needs seek your harm, let not your tongue and heart be slow to say to God,“Deliver me, O Lord, from the unrighteous man.”","prefix":"mity, but they cannot love you. ","suffix":"5. “Who have imagined unrighteou"}]}]}
+>```
+>%%
+>*%%PREFIX%%mity, but they cannot love you.%%HIGHLIGHT%% ==But since they cannot love you, and since theywho hate you must needs seek your harm, let not your tongue and heart be slow to say to God,“Deliver me, O Lord, from the unrighteous man.”== %%POSTFIX%%5. “Who have imagined unrighteou*
+>%%LINK%%[[#^snnksonm4em|show annotation]]
+>%%COMMENT%%
+>滿好的提醒，不要忘記求助於神。
+>%%TAGS%%
+>
+^snnksonm4em
