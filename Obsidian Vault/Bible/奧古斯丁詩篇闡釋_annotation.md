@@ -629,3 +629,31 @@ annotation-target: 聖經詩篇闡釋-奧古斯丁.pdf
 >%%TAGS%%
 >
 ^n117100gn6
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-07T16:22:29.867Z","updated":"2023-08-07T16:22:29.867Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3562817,"end":3562824},{"type":"TextQuoteSelector","exact":"bidden ","prefix":"Psalm CXL.57431. Our Lords have ","suffix":"me, brethren, and in them the Lo"}]}]}
+>```
+>%%
+>*%%PREFIX%%Psalm CXL.57431. Our Lords have%%HIGHLIGHT%% ==bidden== %%POSTFIX%%me, brethren, and in them the Lo*
+>%%LINK%%[[#^nye34rucovk|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^nye34rucovk
+
+
+>%%
+>```annotation-json
+>{"created":"2023-08-07T16:22:32.900Z","updated":"2023-08-07T16:22:32.900Z","document":{"title":"NPNF1-08. St. Augustin: Exposition on the Book of Psalms","link":[{"href":"urn:x-pdf:43821187492edeab91e2e0ad32eec0e3"},{"href":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf"}],"documentFingerprint":"43821187492edeab91e2e0ad32eec0e3"},"uri":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","target":[{"source":"vault:/Bible/attachments/%E8%81%96%E7%B6%93%E8%A9%A9%E7%AF%87%E9%97%A1%E9%87%8B-%E5%A5%A7%E5%8F%A4%E6%96%AF%E4%B8%81.pdf","selector":[{"type":"TextPositionSelector","start":3563212,"end":3563220},{"type":"TextQuoteSelector","exact":" chanted","prefix":"t ye perceived when it was being","suffix":"; for thereinthe Church of Chris"}]}]}
+>```
+>%%
+>*%%PREFIX%%t ye perceived when it was being%%HIGHLIGHT%% ==chanted== %%POSTFIX%%; for thereinthe Church of Chris*
+>%%LINK%%[[#^vfr87t9m9f|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^vfr87t9m9f
