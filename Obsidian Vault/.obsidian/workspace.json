@@ -36,9 +36,9 @@
             "id": "3edb49144ba9ac6e",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "pdf",
               "state": {
-                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md"
+                "file": "03_Reading/improving-vocabulary-skills-third-edition_compress.pdf"
               }
             }
           }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3ce2619606b09b86",
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
+                "file": "03_Reading/improving-vocabulary-skills-third-edition_compress.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
+                "file": "03_Reading/improving-vocabulary-skills-third-edition_compress.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md"
+                "file": "03_Reading/improving-vocabulary-skills-third-edition_compress.pdf"
               }
             }
           }
@@ -214,8 +213,9 @@
   },
   "active": "3edb49144ba9ac6e",
   "lastOpenFiles": [
-    "02_Literture 文獻筆記/第七、八漫步.md",
     "Bible/奧古斯丁詩篇闡釋_annotation.md",
+    "03_Reading/improving-vocabulary-skills-third-edition_compress.pdf",
+    "02_Literture 文獻筆記/第七、八漫步.md",
     "Bible/詩篇135.md",
     "Dialy/靈修日記/詩篇138.md",
     "Dialy/靈修日記/2023-08-04.md",
@@ -248,9 +248,7 @@
     "Dialy/靈修日記/2023-07-31.md",
     "Dialy/靈修日記/2023-07-14.md",
     "Dialy/靈修日記/2023-07-12.md",
-    "Dialy/靈修日記/2023-07-13.md",
     "未命名.canvas",
-    "Bible",
-    "Dialy/靈修日記"
+    "Bible"
   ]
 }
