@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
+                "file": "Dialy/靈修日記/2023-08-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md",
+                "file": "Dialy/靈修日記/2023-08-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible/奧古斯丁詩篇闡釋_annotation.md"
+                "file": "Dialy/靈修日記/2023-08-07.md"
               }
             }
           }
@@ -191,8 +191,9 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "de21fc3dc74f1658",
+  "active": "1a5ce51804c847b9",
   "lastOpenFiles": [
+    "Bible/奧古斯丁詩篇闡釋_annotation.md",
     "02_Literture 文獻筆記/第九漫步.md",
     "Dialy/靈修日記/2023-08-07.md",
     "詩篇.md",
@@ -200,7 +201,6 @@
     "02_Literture 文獻筆記/第五漫步.md",
     "02_Literture 文獻筆記/盧梭.md",
     "02_Literture 文獻筆記/《一個孤獨漫步者的遐想》.md",
-    "Bible/奧古斯丁詩篇闡釋_annotation.md",
     "03_Reading/improving-vocabulary-skills-third-edition_compress.pdf",
     "03_Reading/amen_compress.pdf",
     "Bible/詩篇135.md",
