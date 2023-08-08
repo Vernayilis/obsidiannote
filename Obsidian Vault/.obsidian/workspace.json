@@ -19,17 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5b05792eab4e592d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_Literture 文獻筆記/0718-0724特兒營見證.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_Literture 文獻筆記/0718-0724特兒營見證.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02_Literture 文獻筆記/0718-0724特兒營見證.md"
+              }
             }
           }
         ]
@@ -198,8 +193,9 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "5b05792eab4e592d",
+  "active": "3c62ad4b919c4c20",
   "lastOpenFiles": [
+    "02_Literture 文獻筆記/第五漫步.md",
     "02_Literture 文獻筆記/0703-0706藝術營.md",
     "02_Literture 文獻筆記/0718-0724特兒營見證.md",
     "02_Literture 文獻筆記/《一個孤獨漫步者的遐想》.md",
@@ -208,7 +204,6 @@
     "02_Literture 文獻筆記/第九漫步.md",
     "詩篇.md",
     "02_Literture 文獻筆記/第七、八漫步.md",
-    "02_Literture 文獻筆記/第五漫步.md",
     "02_Literture 文獻筆記/盧梭.md",
     "03_Reading/improving-vocabulary-skills-third-edition_compress.pdf",
     "03_Reading/amen_compress.pdf",
