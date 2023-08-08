@@ -24,13 +24,8 @@
             "id": "5b05792eab4e592d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Literture 文獻筆記/0703-0706藝術營.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -93,7 +88,7 @@
       {
         "id": "b2cb4851ffd7fcbc",
         "type": "tabs",
-        "dimension": 30.218446601941746,
+        "dimension": 38.228155339805824,
         "children": [
           {
             "id": "93c9e6964b750c27",
@@ -127,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Literture 文獻筆記/0703-0706藝術營.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Literture 文獻筆記/0703-0706藝術營.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02_Literture 文獻筆記/0703-0706藝術營.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -165,7 +156,7 @@
       {
         "id": "36137b9098c4db20",
         "type": "tabs",
-        "dimension": 69.78155339805825,
+        "dimension": 61.771844660194176,
         "children": [
           {
             "id": "1a5ce51804c847b9",
@@ -209,8 +200,8 @@
   },
   "active": "5b05792eab4e592d",
   "lastOpenFiles": [
-    "02_Literture 文獻筆記/0718-0724特兒營見證.md",
     "02_Literture 文獻筆記/0703-0706藝術營.md",
+    "02_Literture 文獻筆記/0718-0724特兒營見證.md",
     "02_Literture 文獻筆記/《一個孤獨漫步者的遐想》.md",
     "Dialy/靈修日記/2023-08-07.md",
     "Bible/奧古斯丁詩篇闡釋_annotation.md",
