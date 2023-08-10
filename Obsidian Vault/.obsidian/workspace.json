@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dialy/靈修日記/2023-08-04.md",
+                "file": "Dialy/靈修日記/2023-08-07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc59668fd8aa9328",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dialy/靈修日記/2023-08-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dialy/靈修日記/2023-08-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dialy/靈修日記/2023-08-04.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -193,8 +198,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "3c62ad4b919c4c20",
+  "active": "dc59668fd8aa9328",
   "lastOpenFiles": [
+    "Dialy/靈修日記/2023-08-07.md",
+    "Dialy/靈修日記/詩篇138.md",
+    "Dialy/靈修日記/2023-08-04.md",
     "Dialy/靈修日記/2023-08-03.md",
     "Dialy/靈修日記/2023-08-02.md",
     "Dialy/靈修日記/2023-08-01.md",
@@ -209,7 +217,6 @@
     "02_Literture 文獻筆記/第五漫步.md",
     "02_Literture 文獻筆記/0703-0706藝術營.md",
     "02_Literture 文獻筆記/《一個孤獨漫步者的遐想》.md",
-    "Dialy/靈修日記/2023-08-07.md",
     "Bible/奧古斯丁詩篇闡釋_annotation.md",
     "02_Literture 文獻筆記/第九漫步.md",
     "詩篇.md",
@@ -218,8 +225,6 @@
     "03_Reading/improving-vocabulary-skills-third-edition_compress.pdf",
     "03_Reading/amen_compress.pdf",
     "Bible/詩篇135.md",
-    "Dialy/靈修日記/詩篇138.md",
-    "Dialy/靈修日記/2023-08-04.md",
     "03_Reading/詩篇擷思_隨筆.md",
     "Bible/詩篇擷思_annotation.md",
     "02_Literture 文獻筆記/第六漫步.md",
