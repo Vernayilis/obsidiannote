@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dialy/靈修日記/2023-08-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dialy/靈修日記/2023-08-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dialy/靈修日記/2023-08-10.md"
+              }
             }
           }
         ]
@@ -160,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 788.5
+    "width": 517.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +177,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "f1fa4524af2f1fe9",
+  "active": "0ccf731c1023066f",
   "lastOpenFiles": [
     "Dialy/靈修日記/2023-08-10.md",
     "Dialy/靈修日記/詩篇143.md",
