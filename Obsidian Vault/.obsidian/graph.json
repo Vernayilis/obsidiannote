@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#2023年",
@@ -18,7 +18,7 @@
       "query": "tag:#Psalms",
       "color": {
         "a": 1,
-        "rgb": 13022457
+        "rgb": 9022664
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 15.7484407484407,
   "linkStrength": 0.916320166320166,
   "linkDistance": 76,
-  "scale": 0.33410870867730685,
+  "scale": 0.6754632999429185,
   "close": false
 }
