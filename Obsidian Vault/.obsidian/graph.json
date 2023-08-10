@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#2023年",
@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "",
+      "query": "line:(詩篇)",
       "color": {
         "a": 1,
         "rgb": 14069084
@@ -32,6 +32,6 @@
   "repelStrength": 15.7484407484407,
   "linkStrength": 0.916320166320166,
   "linkDistance": 76,
-  "scale": 0.6754632999429185,
-  "close": true
+  "scale": 0.33410870867730685,
+  "close": false
 }
