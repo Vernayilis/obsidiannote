@@ -93,15 +93,22 @@
       {
         "id": "b2cb4851ffd7fcbc",
         "type": "tabs",
-        "dimension": 38.228155339805824,
+        "dimension": 75.72815533980582,
         "children": [
+          {
+            "id": "f1fa4524af2f1fe9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
           {
             "id": "be0d0af4b9907db5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dialy/靈修日記/詩篇143.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dialy/靈修日記/詩篇143.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dialy/靈修日記/詩篇143.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -139,7 +143,7 @@
       {
         "id": "36137b9098c4db20",
         "type": "tabs",
-        "dimension": 61.771844660194176,
+        "dimension": 24.271844660194176,
         "children": [
           {
             "id": "f1a73b0f53af5ca0",
@@ -168,10 +172,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "e37a1c3e4d1bdbe6",
+  "active": "f1fa4524af2f1fe9",
   "lastOpenFiles": [
-    "Dialy/靈修日記/2023-08-10.md",
     "Dialy/靈修日記/詩篇143.md",
+    "Dialy/靈修日記/2023-08-10.md",
     "Bible/Psalms/詩篇135.md",
     "Bible/Psalms",
     "Dialy/靈修日記/2023-08-07.md",
