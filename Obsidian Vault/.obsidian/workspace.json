@@ -11,8 +11,13 @@
             "id": "3c62ad4b919c4c20",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dialy/靈修日記/2023-03-15.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -108,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dialy/靈修日記/2023-03-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dialy/靈修日記/2023-03-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dialy/靈修日記/2023-03-15.md"
+              }
             }
           }
         ]
@@ -186,6 +195,7 @@
   },
   "active": "3c62ad4b919c4c20",
   "lastOpenFiles": [
+    "X_Index 索引/2023.md",
     "02_Literture 文獻筆記/0718-0724特兒營見證.md",
     "02_Literture 文獻筆記/第五漫步.md",
     "02_Literture 文獻筆記/0703-0706藝術營.md",
@@ -205,7 +215,6 @@
     "Bible/詩篇擷思_annotation.md",
     "02_Literture 文獻筆記/第六漫步.md",
     "02_Literture 文獻筆記/第三、第六漫步.md",
-    "X_Index 索引/2023.md",
     "03_Reading",
     "Dialy/靈修日記/2023-03-15.md",
     "Dialy/靈修日記/2023-08-03.md",
