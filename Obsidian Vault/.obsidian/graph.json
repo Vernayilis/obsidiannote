@@ -5,19 +5,26 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "",
+      "query": "tag:#丁道爾註釋",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.4,
+  "textFadeMultiplier": 0.5,
   "nodeSizeMultiplier": 1.06268191268191,
   "lineSizeMultiplier": 1.36829521829522,
   "collapse-forces": false,
