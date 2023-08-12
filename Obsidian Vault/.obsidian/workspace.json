@@ -79,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dialy/靈修日記/2023-08-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dialy/靈修日記/2023-08-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dialy/靈修日記/2023-08-12.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -175,10 +172,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "650fb40c8599ec8d",
+  "active": "a045854b7e741910",
   "lastOpenFiles": [
-    "Dialy/靈修日記/2023-04-08.md",
     "Dialy/靈修日記/2023-08-12.md",
+    "Dialy/靈修日記/2023-04-08.md",
     "Bible/Psalms/詩篇143.md",
     "Bible/Psalms/詩篇138.md",
     "Dialy/靈修日記/2023-08-11.md",
