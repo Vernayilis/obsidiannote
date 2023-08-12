@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ccf731c1023066f",
+            "id": "650fb40c8599ec8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a4cb3e6bf8fa0e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dialy/靈修日記/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dialy/靈修日記/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dialy/靈修日記/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dialy/靈修日記/未命名.md"
+              }
             }
           }
         ]
@@ -158,15 +176,16 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "f1fa4524af2f1fe9",
+  "active": "5a4cb3e6bf8fa0e3",
   "lastOpenFiles": [
     "Dialy/靈修日記/2023-08-12.md",
+    "Dialy/靈修日記/未命名.md",
+    "Bible/Psalms/詩篇143.md",
+    "Bible/Psalms/詩篇138.md",
     "Dialy/靈修日記/2023-08-11.md",
     "02_Literture 文獻筆記/第七、八漫步.md",
-    "Dialy/靈修日記/詩篇138.md",
     "Dialy/靈修日記/2023-08-10.md",
     "Bible/Psalms/詩篇014.md",
-    "Dialy/靈修日記/詩篇143.md",
     "Bible/Psalms/詩篇140.md",
     "Bible/Psalms/詩篇126.md",
     "Bible/Psalms/詩篇123.md",
@@ -186,7 +205,6 @@
     "Bible/Psalms",
     "Dialy/靈修日記/2023-08-07.md",
     "Dialy/靈修日記/2023-08-04.md",
-    "Dialy/靈修日記/2023-08-03.md",
     "03_Reading/improving-vocabulary-skills-third-edition_compress.pdf",
     "03_Reading/amen_compress.pdf",
     "03_Reading",
