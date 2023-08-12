@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible/Psalms/詩篇127.md",
+                "file": "Dialy/靈修日記/2023-08-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bible/Psalms/詩篇127.md",
+                "file": "Dialy/靈修日記/2023-08-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bible/Psalms/詩篇127.md"
+                "file": "Dialy/靈修日記/2023-08-12.md"
               }
             }
           }
@@ -180,8 +180,9 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "d980bedf0cc2f52e",
+  "active": "650fb40c8599ec8d",
   "lastOpenFiles": [
+    "Bible/Psalms/詩篇127.md",
     "Dialy/靈修日記/2023-08-12.md",
     "Dialy/靈修日記/2023-04-08.md",
     "Bible/Psalms/詩篇143.md",
@@ -194,7 +195,6 @@
     "Bible/Psalms/詩篇126.md",
     "Bible/Psalms/詩篇123.md",
     "Bible/Psalms/詩篇125.md",
-    "Bible/Psalms/詩篇127.md",
     "Bible/Psalms/詩篇54.md",
     "Bible/Psalms/詩篇113.md",
     "Bible/Psalms/詩篇115.md",
