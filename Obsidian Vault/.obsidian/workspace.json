@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dialy/靈修日記/2023-07-31.md",
+                "file": "02_Literture 文獻筆記/0823-0826退修會.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dialy/靈修日記/2023-07-31.md",
+                "file": "02_Literture 文獻筆記/0823-0826退修會.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dialy/靈修日記/2023-07-31.md"
+                "file": "02_Literture 文獻筆記/0823-0826退修會.md"
               }
             }
           }
@@ -194,8 +194,9 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "f1fa4524af2f1fe9",
+  "active": "61c70e1c8cb24c7a",
   "lastOpenFiles": [
+    "Dialy/靈修日記/2023-07-31.md",
     "Bible/Psalms/詩篇127.md",
     "02_Literture 文獻筆記/0823-0826退修會.md",
     "02_Literture 文獻筆記/0813-0817桃園短宣.md",
@@ -221,7 +222,6 @@
     "Bible/Psalms/詩篇134.md",
     "Bible/Psalms/詩篇136.md",
     "Bible/Psalms/詩篇137.md",
-    "Bible/Psalms/詩篇133.md",
     "Bible/Psalms",
     "03_Reading/improving-vocabulary-skills-third-edition_compress.pdf",
     "03_Reading/amen_compress.pdf",
