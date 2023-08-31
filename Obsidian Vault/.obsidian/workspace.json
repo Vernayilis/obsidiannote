@@ -45,6 +45,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb91d9f51672b000",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dialy/靈修日記/2023-07-14.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -183,9 +196,11 @@
   },
   "active": "61c70e1c8cb24c7a",
   "lastOpenFiles": [
+    "Dialy/靈修日記/2023-07-14.md",
+    "Bible/Psalms/詩篇126.md",
+    "02_Literture 文獻筆記/0823-0826退修會.md",
     "02_Literture 文獻筆記/自由與命運.md",
     "02_Literture 文獻筆記/0703-0706藝術營.md",
-    "02_Literture 文獻筆記/0823-0826退修會.md",
     "02_Literture 文獻筆記/0718-0724特兒營見證.md",
     "Dialy/靈修日記/2023-07-31.md",
     "Bible/Psalms/詩篇127.md",
@@ -200,7 +215,6 @@
     "Dialy/靈修日記/2023-08-10.md",
     "Bible/Psalms/詩篇014.md",
     "Bible/Psalms/詩篇140.md",
-    "Bible/Psalms/詩篇126.md",
     "Bible/Psalms/詩篇123.md",
     "Bible/Psalms/詩篇125.md",
     "Bible/Psalms/詩篇54.md",
@@ -208,7 +222,6 @@
     "Bible/Psalms/詩篇115.md",
     "03_Reading/詩篇擷思_隨筆.md",
     "Bible/Psalms/詩篇129.md",
-    "Bible/Psalms/詩篇134.md",
     "Bible/Psalms",
     "03_Reading/improving-vocabulary-skills-third-edition_compress.pdf",
     "03_Reading/amen_compress.pdf",
