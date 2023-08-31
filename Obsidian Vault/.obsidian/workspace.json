@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dialy/靈修日記/2023-07-11.md",
+                "file": "02_Literture 文獻筆記/0823-0826退修會.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dialy/靈修日記/2023-07-11.md",
+                "file": "02_Literture 文獻筆記/0823-0826退修會.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dialy/靈修日記/2023-07-11.md"
+                "file": "02_Literture 文獻筆記/0823-0826退修會.md"
               }
             }
           }
@@ -194,10 +194,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "c5d3dce1cd7354df",
+  "active": "be961ce50f673b1e",
   "lastOpenFiles": [
-    "02_Literture 文獻筆記/0823-0826退修會.md",
     "Dialy/靈修日記/2023-07-11.md",
+    "02_Literture 文獻筆記/0823-0826退修會.md",
     "Dialy/靈修日記/2023-07-12.md",
     "Dialy/靈修日記/2023-03-15.md",
     "Dialy/靈修日記/2023-07-14.md",
