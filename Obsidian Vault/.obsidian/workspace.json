@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Literture 文獻筆記/0823-0826退修會.md",
+                "file": "Dialy/靈修日記/2023-09-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Literture 文獻筆記/0823-0826退修會.md",
+                "file": "Dialy/靈修日記/2023-09-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Literture 文獻筆記/0823-0826退修會.md"
+                "file": "Dialy/靈修日記/2023-09-22.md"
               }
             }
           }
@@ -181,13 +181,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "be961ce50f673b1e",
+  "active": "c7a81daf95ffeeb9",
   "lastOpenFiles": [
+    "02_Literture 文獻筆記/0823-0826退修會.md",
     "Dialy/靈修日記/2023-09-22.md",
     "Dialy/靈修日記/未命名.md",
     "Dialy/靈修日記/2023-08-13.md",
     "Dialy/靈修日記/2023-07-14.md",
-    "02_Literture 文獻筆記/0823-0826退修會.md",
     "02_Literture 文獻筆記/0813-0817桃園短宣.md",
     "02_Literture 文獻筆記/0718-0724特兒營見證.md",
     "02_Literture 文獻筆記/0703-0706藝術營.md",
