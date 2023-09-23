@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 217.5,
+    "collapsed": true
   },
   "right": {
     "id": "3ce2619606b09b86",
@@ -163,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +176,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "a045854b7e741910",
+  "active": "650fb40c8599ec8d",
   "lastOpenFiles": [
     "02_Literture 文獻筆記/0813-0817桃園短宣.md",
     "02_Literture 文獻筆記/0718-0724特兒營見證.md",
