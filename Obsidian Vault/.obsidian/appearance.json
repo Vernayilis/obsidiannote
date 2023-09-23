@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "baseFontSize": 15,
-  "theme": "obsidian"
+  "theme": "system",
+  "textFontFamily": "源雲明體"
 }
