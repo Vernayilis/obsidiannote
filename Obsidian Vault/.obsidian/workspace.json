@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#杜工部",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +175,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "650fb40c8599ec8d",
+  "active": "a045854b7e741910",
   "lastOpenFiles": [
     "02_Literture 文獻筆記/0813-0817桃園短宣.md",
     "02_Literture 文獻筆記/0718-0724特兒營見證.md",
