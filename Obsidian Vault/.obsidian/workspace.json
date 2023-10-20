@@ -29,9 +29,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1dffb400c061a33c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dialy/靈修日記/2023-10-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dialy/靈修日記/2023-10-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dialy/靈修日記/2023-10-20.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,10 +179,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "467e57ce94f1a7cb",
+  "active": "1dffb400c061a33c",
   "lastOpenFiles": [
-    "Dialy/靈修日記/2023-10-11.md",
     "Dialy/靈修日記/2023-10-20.md",
+    "Dialy/靈修日記/2023-10-11.md",
     "Dialy/靈修日記/2023-09-22.md",
     "02_Literture 文獻筆記/0703-0706藝術營見證.md",
     "02_Literture 文獻筆記/0813-0817桃園短宣.md",
