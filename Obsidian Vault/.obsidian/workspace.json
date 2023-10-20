@@ -29,17 +29,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1dffb400c061a33c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#杜工部",
+                "query": "tag:#2023年",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,6 +92,14 @@
         "type": "tabs",
         "dimension": 75.72815533980582,
         "children": [
+          {
+            "id": "1dffb400c061a33c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
           {
             "id": "be0d0af4b9907db5",
             "type": "leaf",
@@ -167,12 +167,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 569.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
+      "switcher:開啟快速切換": false,
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
@@ -182,6 +182,7 @@
   "active": "1dffb400c061a33c",
   "lastOpenFiles": [
     "Dialy/靈修日記/2023-10-20.md",
+    "Dialy/靈修日記/2023-03-15.md",
     "Dialy/靈修日記/2023-10-11.md",
     "Dialy/靈修日記/2023-09-22.md",
     "02_Literture 文獻筆記/0703-0706藝術營見證.md",
@@ -193,7 +194,6 @@
     "Dialy/靈修日記/2023-07-14.md",
     "Dialy/靈修日記/2023-07-11.md",
     "Dialy/靈修日記/2023-07-12.md",
-    "Dialy/靈修日記/2023-03-15.md",
     "Bible/Psalms/詩篇126.md",
     "02_Literture 文獻筆記/自由與命運.md",
     "Dialy/靈修日記/2023-07-31.md",
