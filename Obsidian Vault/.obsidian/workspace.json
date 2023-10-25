@@ -29,9 +29,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f73df31a0494d44a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 569.5
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +189,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "1dffb400c061a33c",
+  "active": "f73df31a0494d44a",
   "lastOpenFiles": [
     "Dialy/靈修日記/2023-10-20.md",
     "Dialy/靈修日記/2023-03-15.md",
