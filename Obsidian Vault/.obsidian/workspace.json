@@ -18,20 +18,19 @@
             }
           },
           {
-            "id": "467e57ce94f1a7cb",
+            "id": "9c0dbd0eeae0f2d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dialy/靈修日記/2023-10-20.md",
+                "file": "02_Literture 文獻筆記/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dialy/靈修日記/2023-10-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dialy/靈修日記/2023-10-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dialy/靈修日記/2023-10-20.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,13 +178,15 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "467e57ce94f1a7cb",
+  "active": "2bc7aab0970a9faa",
   "lastOpenFiles": [
+    "02_Literture 文獻筆記/盧梭.md",
+    "02_Literture 文獻筆記/未命名.md",
+    "Dialy/靈修日記/2023-10-20.md",
     "Bible/奧古斯丁詩篇闡釋_annotation.md",
     "03_Reading/柏拉圖《會飲》（from《柏拉圖四書》136-226）.pdf",
     "03_Reading/詩篇擷思_隨筆.md",
     "Dialy/靈修日記/2023-10-25.md",
-    "Dialy/靈修日記/2023-10-20.md",
     "Dialy/靈修日記/2023-03-15.md",
     "Dialy/靈修日記/2023-10-11.md",
     "Dialy/靈修日記/2023-09-22.md",
@@ -210,8 +207,6 @@
     "Dialy/靈修日記/2023-04-08.md",
     "Bible/Psalms/詩篇143.md",
     "Bible/Psalms/詩篇138.md",
-    "Dialy/靈修日記/2023-08-11.md",
-    "02_Literture 文獻筆記/第七、八漫步.md",
     "Bible/Psalms",
     "03_Reading/improving-vocabulary-skills-third-edition_compress.pdf",
     "03_Reading/amen_compress.pdf",
