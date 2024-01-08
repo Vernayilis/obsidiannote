@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96eb0f33e85e7f9f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_Literture 文獻筆記/盧梭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_Literture 文獻筆記/盧梭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02_Literture 文獻筆記/盧梭.md"
+              }
             }
           },
           {
@@ -145,7 +159,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -184,7 +200,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "1dffb400c061a33c",
+  "active": "96eb0f33e85e7f9f",
   "lastOpenFiles": [
     "02_Literture 文獻筆記/期末作品分析.md",
     "02_Literture 文獻筆記/attachments/Pasted image 20240108195259.png",
