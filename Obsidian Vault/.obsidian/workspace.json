@@ -109,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Literture 文獻筆記/作品分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Literture 文獻筆記/作品分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02_Literture 文獻筆記/作品分析.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,10 +182,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "e6b1e415357c0ff3",
+  "active": "1dffb400c061a33c",
   "lastOpenFiles": [
-    "02_Literture 文獻筆記/盧梭.md",
     "02_Literture 文獻筆記/作品分析.md",
+    "02_Literture 文獻筆記/盧梭.md",
     "03_Reading/柏拉圖《會飲》（from《柏拉圖四書》136-226）.pdf",
     "02_Literture 文獻筆記/未命名.md",
     "02_Literture 文獻筆記/自由與命運.md",
